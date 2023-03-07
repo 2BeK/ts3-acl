@@ -13,7 +13,7 @@ As a beginner (and also as advanced player) it's a practical thing to have a lis
 You can use/download the resulting lookup table files for the basic game and Nyerges Design (https://www.nyergesdesign.com/) World Traffic standard schedules directly from the corresponding folders.
 There are three flavours available - [CSV](csv), [JSON](json) (single files for each airport/schedule) or [Excel](excel) (one file for all).
 
-Current state ```v1.0.0```:
+Current state ```v1.0.1```:
 
 | Software                        | Version                    | Comment                                  |
 | ------------------------------- | -------------------------- | ---------------------------------------- |
@@ -88,8 +88,13 @@ If you've come so far - congratulations. The hardest part is done (hopefully).
 18. After the script has finished you will find another new subfolder (```excel```) in the directory where the script files are (e.g. ```C:\users\%username%\Desktop\TS3_ACL>```)
 19. In there you will find your lookup tables in one Excel file separated by airport and schedule
 
-
 > Reminder - Everytime you change a schedule you'll need to run the script again to update your tables!
 
-
 That's it! Have fun :)
+
+## Version history
+
+* v1.0.1
+  - License added
+* v1.0.0
+  - Initial Release
