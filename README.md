@@ -11,7 +11,7 @@ As a beginner (and also as advanced player) it's a practical thing to have a lis
 ## How to use
 ### Fast lane
 You can use/download the resulting lookup table files for the basic game and Nyerges Design (https://www.nyergesdesign.com/) World Traffic standard schedules directly from the corresponding folders.
-There are three flavours available - CSV, JSON (single files for each airport/schedule) or Excel (one file for all).
+There are three flavours available - [CSV](csv), [JSON](json) (single files for each airport/schedule) or [Excel](excel) (one file for all).
 
 Current state:
 
