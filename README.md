@@ -1,5 +1,8 @@
 # Tower! Simulator 3 - Airline Callsign Lookup (ts3-acl)
 
+## Disclaimer
+>_This is not an official tool from the developer of the game (FeelThere - https://feelthere.com/) and it is not connected to them in any way. This is a private hobby project._
+
 ## Background
 The ACL should basically do what its name says - create tables to lookup the callsigns of all airlines _for a specific airport and schedule_.
 Sure you could extract all airlines from the games CSVs but this will result in a long list of which you only need a few entries per airport.
@@ -7,12 +10,15 @@ As a beginner (and also as advanced player) it's a practical thing to have a lis
 
 ## How to use
 ### Fast lane
-You can use/download the resulting files for the basic game and Nyerges Design World Traffic standard schedules directly from the corresponding folders.
+You can use/download the resulting lookup table files for the basic game and Nyerges Design (https://www.nyergesdesign.com/) World Traffic standard schedules directly from the corresponding folders.
 There are three flavours available - CSV, JSON (single files for each airport/schedule) or Excel (one file for all).
 
 Current state:
-- Tower! Simulator 3 - Basic game with __Tower! Places 1 Update__ (incl. KLAX, KLGA, KRDU, TIST, TXKF)
-- Nyerges Design - World Traffic __v2.1__
+
+| Software                        | Version                    | Comment                                  |
+| ------------------------------- | -------------------------- | ---------------------------------------- |
+| Tower! Simulator 3 - Basic game | __Tower! Places 1 Update__ | incl. KLAX, KLGA, KRDU, TIST, TXKF       |
+| Nyerges Design - World Traffic  | __v2.1__                   | incl. KLAX, KLGA, KRDU, OMDB, TIST, TXKF |
 
 ### Need more?
 If you use a __custom schedule__ or any other __DLC airports__ you will need to run the scripts by yourself to create your very own lookup tables.
