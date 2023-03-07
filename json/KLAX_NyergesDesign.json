@@ -1,0 +1,570 @@
+{
+    "Airline": "AAC",
+    "Callsign": "ASIANA CARGO",
+    "Name": "Asiana Airlines Cargo",
+    "Country Code": "KOR"
+}
+{
+    "Airline": "AAH",
+    "Callsign": "ALOHA",
+    "Name": "Aloha Air Cargo",
+    "Country Code": "USA"
+}
+{
+    "Airline": "AAL",
+    "Callsign": "AMERICAN",
+    "Name": "American Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "AAR",
+    "Callsign": "ASIANA",
+    "Name": "Asiana Airlines",
+    "Country Code": "KOR"
+}
+{
+    "Airline": "AAY",
+    "Callsign": "ALLEGIANT",
+    "Name": "Allegiant Air",
+    "Country Code": "USA"
+}
+{
+    "Airline": "ABX",
+    "Callsign": "ABEX AIR",
+    "Name": "Airborne Express",
+    "Country Code": "USA"
+}
+{
+    "Airline": "ACA",
+    "Callsign": "AIR CANADA",
+    "Name": "Air Canada",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "AFR",
+    "Callsign": "AIR FRANCE",
+    "Name": "Air France",
+    "Country Code": "FRA"
+}
+{
+    "Airline": "AMF",
+    "Callsign": "AMFLIGHT",
+    "Name": "Ameriflight",
+    "Country Code": "USA"
+}
+{
+    "Airline": "AMX",
+    "Callsign": "AEROMEXICO",
+    "Name": "AeroMexico",
+    "Country Code": "MEX"
+}
+{
+    "Airline": "ANA",
+    "Callsign": "ALL NIPPON",
+    "Name": "All Nippon Airways",
+    "Country Code": "JPN"
+}
+{
+    "Airline": "ANZ",
+    "Callsign": "NEW ZEALAND",
+    "Name": "Air New Zealand",
+    "Country Code": "NZL"
+}
+{
+    "Airline": "ASA",
+    "Callsign": "ALASKA",
+    "Name": "Alaska Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "ATN",
+    "Callsign": "AIR TRANSPORT",
+    "Name": "Air Transport Intl.",
+    "Country Code": "USA"
+}
+{
+    "Airline": "AVA",
+    "Callsign": "AVIANCA",
+    "Name": "Avianca - Aerovias Nacionales de Colombia",
+    "Country Code": "COL"
+}
+{
+    "Airline": "BAW",
+    "Callsign": "SPEED BIRD",
+    "Name": "British Airways",
+    "Country Code": "GBR"
+}
+{
+    "Airline": "CAC",
+    "Callsign": "CHINA CARGO",
+    "Name": "China Airlines Cargo",
+    "Country Code": "CHN"
+}
+{
+    "Airline": "CAL",
+    "Callsign": "DYNASTY",
+    "Name": "China Airlines",
+    "Country Code": "TWN"
+}
+{
+    "Airline": "CCA",
+    "Callsign": "AIR CHINA",
+    "Name": "Air China",
+    "Country Code": "CHN"
+}
+{
+    "Airline": "CES",
+    "Callsign": "CHINA EASTERN",
+    "Name": "China Eastern Airlines",
+    "Country Code": "CHN"
+}
+{
+    "Airline": "CHC",
+    "Callsign": "CHINA SOUTHERN CARGO",
+    "Name": "China Southern Cargo",
+    "Country Code": "CHN"
+}
+{
+    "Airline": "CKK",
+    "Callsign": "CARGO KING",
+    "Name": "China Cargo Airlines",
+    "Country Code": "CHN"
+}
+{
+    "Airline": "CKS",
+    "Callsign": "CONNIE",
+    "Name": "Kalitta Air",
+    "Country Code": "USA"
+}
+{
+    "Airline": "CLX",
+    "Callsign": "CARGO LUX",
+    "Name": "Cargolux Airlines",
+    "Country Code": "LUX"
+}
+{
+    "Airline": "CMP",
+    "Callsign": "COPA",
+    "Name": "Copa Airlines",
+    "Country Code": "PAN"
+}
+{
+    "Airline": "CPA",
+    "Callsign": "CATHAY",
+    "Name": "Cathay Pacific",
+    "Country Code": "HKG"
+}
+{
+    "Airline": "CPC",
+    "Callsign": "CATHAY CARGO",
+    "Name": "Cathay Pacific Cargo",
+    "Country Code": "HKG"
+}
+{
+    "Airline": "CSN",
+    "Callsign": "CHINA SOUTHERN",
+    "Name": "China Southern Airlines",
+    "Country Code": "CHN"
+}
+{
+    "Airline": "CSS",
+    "Callsign": "SHUNG FENG",
+    "Name": "SF Airlines",
+    "Country Code": "CHN"
+}
+{
+    "Airline": "CXA",
+    "Callsign": "XIAMEN AIR",
+    "Name": "Xiamen Airlines",
+    "Country Code": "CHN"
+}
+{
+    "Airline": "DAL",
+    "Callsign": "DELTA",
+    "Name": "Delta Air Lines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "DHL",
+    "Callsign": "CONNIE",
+    "Name": "DHL Kalitta",
+    "Country Code": "USA"
+}
+{
+    "Airline": "DLH",
+    "Callsign": "LUFTHANSA",
+    "Name": "Lufthansa German Airlines",
+    "Country Code": "DEU"
+}
+{
+    "Airline": "DPJ",
+    "Callsign": "JET CARD",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "EJA",
+    "Callsign": "EXECJET",
+    "Name": "NetJets",
+    "Country Code": "USA"
+}
+{
+    "Airline": "EJM",
+    "Callsign": "JET SPEED",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "ELY",
+    "Callsign": "ELAL",
+    "Name": "El Al Israel Airlines",
+    "Country Code": "ISR"
+}
+{
+    "Airline": "ERY",
+    "Callsign": "ERIE SHORE",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "ESC",
+    "Callsign": "EMIRATES CARGO",
+    "Name": "Emirates Sky Cargo",
+    "Country Code": "ARE"
+}
+{
+    "Airline": "EVA",
+    "Callsign": "EVA",
+    "Name": "EVA Airways",
+    "Country Code": "TWN"
+}
+{
+    "Airline": "FDX",
+    "Callsign": "FEDEX",
+    "Name": "FEDERAL EXPRESS",
+    "Country Code": "USA"
+}
+{
+    "Airline": "FDY",
+    "Callsign": "FRIENDLY",
+    "Name": "Southern Airways Express",
+    "Country Code": "USA"
+}
+{
+    "Airline": "FIN",
+    "Callsign": "FIN AIR",
+    "Name": "Finnair",
+    "Country Code": "FIN"
+}
+{
+    "Airline": "FJI",
+    "Callsign": "FIJI",
+    "Name": "Fiji Airways",
+    "Country Code": "FJI"
+}
+{
+    "Airline": "FTH",
+    "Callsign": "FOOT HILLS",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "GTI",
+    "Callsign": "GIANT",
+    "Name": "Atlas Air",
+    "Country Code": "USA"
+}
+{
+    "Airline": "HAL",
+    "Callsign": "HAWAIIAN",
+    "Name": "Hawaiian Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "JAL",
+    "Callsign": "JAPAN AIR",
+    "Name": "Japan Airlines",
+    "Country Code": "JPN"
+}
+{
+    "Airline": "JBU",
+    "Callsign": "JET BLUE",
+    "Name": "JetBlue Airways",
+    "Country Code": "USA"
+}
+{
+    "Airline": "JSX",
+    "Callsign": "BIG STRIPE",
+    "Name": "JSX (JetSuiteX)",
+    "Country Code": "USA"
+}
+{
+    "Airline": "JTL",
+    "Callsign": "JET LINX",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "KAL",
+    "Callsign": "KOREAN AIR",
+    "Name": "Korean Air",
+    "Country Code": "PRK"
+}
+{
+    "Airline": "KCA",
+    "Callsign": "KOREAN CARGO",
+    "Name": "Korean Air Cargo",
+    "Country Code": "KOR"
+}
+{
+    "Airline": "KLM",
+    "Callsign": "KLM",
+    "Name": "KLM Royal Dutch Airlines",
+    "Country Code": "NLD"
+}
+{
+    "Airline": "LAN",
+    "Callsign": "LAN",
+    "Name": "LAN Airlines",
+    "Country Code": "CHL"
+}
+{
+    "Airline": "LCO",
+    "Callsign": "LAN CARGO",
+    "Name": "Latam Cargo Chile",
+    "Country Code": "USA"
+}
+{
+    "Airline": "LRC",
+    "Callsign": "LACSA",
+    "Name": "LACSA",
+    "Country Code": "CRI"
+}
+{
+    "Airline": "MAA",
+    "Callsign": "MAS CARGA",
+    "Name": "Mas Air",
+    "Country Code": "MEX"
+}
+{
+    "Airline": "NCR",
+    "Callsign": "NATIONAL CARGO",
+    "Name": "National Air Cargo",
+    "Country Code": "USA"
+}
+{
+    "Airline": "NKS",
+    "Callsign": "SPIRIT WINGS",
+    "Name": "Spirit Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "PAC",
+    "Callsign": "POLAR",
+    "Name": "Polar Air Cargo",
+    "Country Code": "USA"
+}
+{
+    "Airline": "PAL",
+    "Callsign": "PHILIPPINE",
+    "Name": "Philippine Airlines",
+    "Country Code": "PHL"
+}
+{
+    "Airline": "PEG",
+    "Callsign": "PEG JET",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "QAC",
+    "Callsign": "QATAR CARGO",
+    "Name": "Qatar Airways Cargo",
+    "Country Code": "QAT"
+}
+{
+    "Airline": "QFA",
+    "Callsign": "QANTAS",
+    "Name": "Qantas Airways",
+    "Country Code": "AUS"
+}
+{
+    "Airline": "QTR",
+    "Callsign": "QATARI",
+    "Name": "Qatar Airways",
+    "Country Code": "QAT"
+}
+{
+    "Airline": "QXE",
+    "Callsign": "HORIZON AIR",
+    "Name": "Horizon Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SAS",
+    "Callsign": "SCANDINAVIAN",
+    "Name": "SAS Scandinavian Airlines",
+    "Country Code": "SWE"
+}
+{
+    "Airline": "SCX",
+    "Callsign": "SUN COUNTRY",
+    "Name": "Sun Country Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SIA",
+    "Callsign": "SINGAPORE",
+    "Name": "Singapore Airlines",
+    "Country Code": "SGP"
+}
+{
+    "Airline": "SKW",
+    "Callsign": "SKY WEST",
+    "Name": "SkyWest Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SLH",
+    "Callsign": "SILVER HAWK",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "SQC",
+    "Callsign": "SINGAPORE CARGO",
+    "Name": "Singapore Airlines Cargo",
+    "Country Code": "SGP"
+}
+{
+    "Airline": "SWA",
+    "Callsign": "SOUTHWEST",
+    "Name": "Southwest Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SWC",
+    "Callsign": "DHL AVIATION",
+    "Name": "DHL iAero Aviation",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SWQ",
+    "Callsign": "SWIFT FLIGHT",
+    "Name": "Swift Air",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SWR",
+    "Callsign": "SWISS",
+    "Name": "Swiss International Air Lines",
+    "Country Code": "CHE"
+}
+{
+    "Airline": "TAI",
+    "Callsign": "TACA",
+    "Name": "Avianca El Salvador",
+    "Country Code": "SLV"
+}
+{
+    "Airline": "TAM",
+    "Callsign": "TAM",
+    "Name": "TAM Linhas Aereas",
+    "Country Code": "BRA"
+}
+{
+    "Airline": "THY",
+    "Callsign": "TURKISH",
+    "Name": "Turkish Airlines",
+    "Country Code": "TUR"
+}
+{
+    "Airline": "TNO",
+    "Callsign": "AERO UNION",
+    "Name": "Aero Union",
+    "Country Code": "MEX"
+}
+{
+    "Airline": "TZP",
+    "Callsign": "ZIPPY",
+    "Name": "Zipair Tokyo",
+    "Country Code": "JPN"
+}
+{
+    "Airline": "UAE",
+    "Callsign": "EMIRATES",
+    "Name": "Emirates Airlines",
+    "Country Code": "ARE"
+}
+{
+    "Airline": "UAL",
+    "Callsign": "UNITED",
+    "Name": "United Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "UPS",
+    "Callsign": "U P S",
+    "Name": "United Parcel Service",
+    "Country Code": "USA"
+}
+{
+    "Airline": "VIR",
+    "Callsign": "VIRGIN",
+    "Name": "Virgin Atlantic Airways",
+    "Country Code": "GBR"
+}
+{
+    "Airline": "VIV",
+    "Callsign": "AERO ENLACES",
+    "Name": "VivaAerobus",
+    "Country Code": "MEX"
+}
+{
+    "Airline": "VJT",
+    "Callsign": "VISTA",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "VOC",
+    "Callsign": "COSTA RICAN",
+    "Name": "Volaris Costa Rica",
+    "Country Code": "CRI"
+}
+{
+    "Airline": "VOI",
+    "Callsign": "VOLARIS",
+    "Name": "Volaris",
+    "Country Code": "MEX"
+}
+{
+    "Airline": "WGN",
+    "Callsign": "WESTERN GLOBAL",
+    "Name": "Western Global Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "WJA",
+    "Callsign": "WEST JET",
+    "Name": "WestJet",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "WSN",
+    "Callsign": "WING SPAN",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "WWI",
+    "Callsign": "WORLD WIDE",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "XRO",
+    "Callsign": "CRAMER",
+    "Name": "",
+    "Country Code": "GA"
+}

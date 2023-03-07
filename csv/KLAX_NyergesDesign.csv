@@ -1,0 +1,96 @@
+Airline,Callsign,Name,Country Code
+AAC,ASIANA CARGO,Asiana Airlines Cargo,KOR
+AAH,ALOHA,Aloha Air Cargo,USA
+AAL,AMERICAN,American Airlines,USA
+AAR,ASIANA,Asiana Airlines,KOR
+AAY,ALLEGIANT,Allegiant Air,USA
+ABX,ABEX AIR,Airborne Express,USA
+ACA,AIR CANADA,Air Canada,CAN
+AFR,AIR FRANCE,Air France,FRA
+AMF,AMFLIGHT,Ameriflight,USA
+AMX,AEROMEXICO,AeroMexico,MEX
+ANA,ALL NIPPON,All Nippon Airways,JPN
+ANZ,NEW ZEALAND,Air New Zealand,NZL
+ASA,ALASKA,Alaska Airlines,USA
+ATN,AIR TRANSPORT,Air Transport Intl.,USA
+AVA,AVIANCA,Avianca - Aerovias Nacionales de Colombia,COL
+BAW,SPEED BIRD,British Airways,GBR
+CAC,CHINA CARGO,China Airlines Cargo,CHN
+CAL,DYNASTY,China Airlines,TWN
+CCA,AIR CHINA,Air China,CHN
+CES,CHINA EASTERN,China Eastern Airlines,CHN
+CHC,CHINA SOUTHERN CARGO,China Southern Cargo,CHN
+CKK,CARGO KING,China Cargo Airlines,CHN
+CKS,CONNIE,Kalitta Air,USA
+CLX,CARGO LUX,Cargolux Airlines,LUX
+CMP,COPA,Copa Airlines,PAN
+CPA,CATHAY,Cathay Pacific,HKG
+CPC,CATHAY CARGO,Cathay Pacific Cargo,HKG
+CSN,CHINA SOUTHERN,China Southern Airlines,CHN
+CSS,SHUNG FENG,SF Airlines,CHN
+CXA,XIAMEN AIR,Xiamen Airlines,CHN
+DAL,DELTA,Delta Air Lines,USA
+DHL,CONNIE,DHL Kalitta,USA
+DLH,LUFTHANSA,Lufthansa German Airlines,DEU
+DPJ,JET CARD,,GA
+EJA,EXECJET,NetJets,USA
+EJM,JET SPEED,,GA
+ELY,ELAL,El Al Israel Airlines,ISR
+ERY,ERIE SHORE,,GA
+ESC,EMIRATES CARGO,Emirates Sky Cargo,ARE
+EVA,EVA,EVA Airways,TWN
+FDX,FEDEX,FEDERAL EXPRESS,USA
+FDY,FRIENDLY,Southern Airways Express,USA
+FIN,FIN AIR,Finnair,FIN
+FJI,FIJI,Fiji Airways,FJI
+FTH,FOOT HILLS,,GA
+GTI,GIANT,Atlas Air,USA
+HAL,HAWAIIAN,Hawaiian Airlines,USA
+JAL,JAPAN AIR,Japan Airlines,JPN
+JBU,JET BLUE,JetBlue Airways,USA
+JSX,BIG STRIPE,JSX (JetSuiteX),USA
+JTL,JET LINX,,GA
+KAL,KOREAN AIR,Korean Air,PRK
+KCA,KOREAN CARGO,Korean Air Cargo,KOR
+KLM,KLM,KLM Royal Dutch Airlines,NLD
+LAN,LAN,LAN Airlines,CHL
+LCO,LAN CARGO,Latam Cargo Chile,USA
+LRC,LACSA,LACSA,CRI
+MAA,MAS CARGA,Mas Air,MEX
+NCR,NATIONAL CARGO,National Air Cargo,USA
+NKS,SPIRIT WINGS,Spirit Airlines,USA
+PAC,POLAR,Polar Air Cargo,USA
+PAL,PHILIPPINE,Philippine Airlines,PHL
+PEG,PEG JET,,GA
+QAC,QATAR CARGO,Qatar Airways Cargo,QAT
+QFA,QANTAS,Qantas Airways,AUS
+QTR,QATARI,Qatar Airways,QAT
+QXE,HORIZON AIR,Horizon Airlines,USA
+SAS,SCANDINAVIAN,SAS Scandinavian Airlines,SWE
+SCX,SUN COUNTRY,Sun Country Airlines,USA
+SIA,SINGAPORE,Singapore Airlines,SGP
+SKW,SKY WEST,SkyWest Airlines,USA
+SLH,SILVER HAWK,,GA
+SQC,SINGAPORE CARGO,Singapore Airlines Cargo,SGP
+SWA,SOUTHWEST,Southwest Airlines,USA
+SWC,DHL AVIATION,DHL iAero Aviation,USA
+SWQ,SWIFT FLIGHT,Swift Air,USA
+SWR,SWISS,Swiss International Air Lines,CHE
+TAI,TACA,Avianca El Salvador,SLV
+TAM,TAM,TAM Linhas Aereas,BRA
+THY,TURKISH,Turkish Airlines,TUR
+TNO,AERO UNION,Aero Union,MEX
+TZP,ZIPPY,Zipair Tokyo,JPN
+UAE,EMIRATES,Emirates Airlines,ARE
+UAL,UNITED,United Airlines,USA
+UPS,U P S,United Parcel Service,USA
+VIR,VIRGIN,Virgin Atlantic Airways,GBR
+VIV,AERO ENLACES,VivaAerobus,MEX
+VJT,VISTA,,GA
+VOC,COSTA RICAN,Volaris Costa Rica,CRI
+VOI,VOLARIS,Volaris,MEX
+WGN,WESTERN GLOBAL,Western Global Airlines,USA
+WJA,WEST JET,WestJet,CAN
+WSN,WING SPAN,,GA
+WWI,WORLD WIDE,,GA
+XRO,CRAMER,,GA

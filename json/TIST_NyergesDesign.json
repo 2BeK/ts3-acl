@@ -1,0 +1,150 @@
+{
+    "Airline": "AAL",
+    "Callsign": "AMERICAN",
+    "Name": "American Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "AMF",
+    "Callsign": "AMFLIGHT",
+    "Name": "Ameriflight",
+    "Country Code": "USA"
+}
+{
+    "Airline": "DAL",
+    "Callsign": "DELTA",
+    "Name": "Delta Air Lines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "EJA",
+    "Callsign": "EXECJET",
+    "Name": "NetJets",
+    "Country Code": "USA"
+}
+{
+    "Airline": "EZZ",
+    "Callsign": "ENTERPRIZE",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "GJE",
+    "Callsign": "GLOBAL JETS",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "GPD",
+    "Callsign": "GOOD SPEED",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "HPJ",
+    "Callsign": "HOP A JET",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "JBU",
+    "Callsign": "JET BLUE",
+    "Name": "JetBlue Airways",
+    "Country Code": "USA"
+}
+{
+    "Airline": "JRE",
+    "Callsign": "JET SHARE",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "KAP",
+    "Callsign": "CAIR",
+    "Name": "Cape Air",
+    "Country Code": "USA"
+}
+{
+    "Airline": "KFB",
+    "Callsign": "MISSION",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "KPO",
+    "Callsign": "KRYPTO",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "LXJ",
+    "Callsign": "FLEXJET",
+    "Name": "Flexjet",
+    "Country Code": "USA"
+}
+{
+    "Airline": "NJE",
+    "Callsign": "FRACTION",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "NKS",
+    "Callsign": "SPIRIT WINGS",
+    "Name": "Spirit Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "Q",
+    "Callsign": "ANGUILLA",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "RNI",
+    "Callsign": "RENNIA",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "SCX",
+    "Callsign": "SUN COUNTRY",
+    "Name": "Sun Country Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SIL",
+    "Callsign": "SILVER WINGS",
+    "Name": "Silver Airways",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SNC",
+    "Callsign": "NIGHT CARGO",
+    "Name": "Air Cargo Carriers",
+    "Country Code": "USA"
+}
+{
+    "Airline": "TJ",
+    "Callsign": "TRADEWIND",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "TWY",
+    "Callsign": "TWILIGHT",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "UAL",
+    "Callsign": "UNITED",
+    "Name": "United Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "WAF",
+    "Callsign": "FLAMENCO",
+    "Name": "Air Flamenco",
+    "Country Code": "PRI"
+}

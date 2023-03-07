@@ -1,0 +1,48 @@
+{
+    "Airline": "BTV",
+    "Callsign": "WHITE SAND",
+    "Name": "Be There Vacation",
+    "Country Code": "BEL"
+}
+{
+    "Airline": "DEN",
+    "Callsign": "DENALI",
+    "Name": "Denali Airlines",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "FRT",
+    "Callsign": "FIELD AIR",
+    "Name": "Feelthere International Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "LAW",
+    "Callsign": "LATITUDE",
+    "Name": "Latitude Airways",
+    "Country Code": "NZL"
+}
+{
+    "Airline": "MAX",
+    "Callsign": "MAGIC",
+    "Name": "Magic Express",
+    "Country Code": "USA"
+}
+{
+    "Airline": "TAB",
+    "Callsign": "LESLIE",
+    "Name": "Trans American",
+    "Country Code": "USA"
+}
+{
+    "Airline": "TGB",
+    "Callsign": "GLOBE",
+    "Name": "Trans Global",
+    "Country Code": "DEU"
+}
+{
+    "Airline": "VAL",
+    "Callsign": "VALUE",
+    "Name": "Value",
+    "Country Code": "USA"
+}

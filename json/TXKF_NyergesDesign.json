@@ -1,0 +1,72 @@
+{
+    "Airline": "AAL",
+    "Callsign": "AMERICAN",
+    "Name": "American Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "BAW",
+    "Callsign": "SPEED BIRD",
+    "Name": "British Airways",
+    "Country Code": "GBR"
+}
+{
+    "Airline": "CJT",
+    "Callsign": "CARGO JET",
+    "Name": "Cargojet",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "DAL",
+    "Callsign": "DELTA",
+    "Name": "Delta Air Lines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "EJA",
+    "Callsign": "EXECJET",
+    "Name": "NetJets",
+    "Country Code": "USA"
+}
+{
+    "Airline": "MLN",
+    "Callsign": "MILLENNIUM",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "N",
+    "Callsign": "MEDAVAC",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "NEW",
+    "Callsign": "NORTH EASTERN",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "ROU",
+    "Callsign": "ROUGE",
+    "Name": "AIR CANADA ROUGE",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "RZO",
+    "Callsign": "AIR AZORES",
+    "Name": "SATA International",
+    "Country Code": "PRT"
+}
+{
+    "Airline": "TLK",
+    "Callsign": "STAR LINK",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "WJA",
+    "Callsign": "WEST JET",
+    "Name": "WestJet",
+    "Country Code": "CAN"
+}

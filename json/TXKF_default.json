@@ -1,0 +1,54 @@
+{
+    "Airline": "CBA",
+    "Callsign": "CHESHIRE",
+    "Name": "Chesire Blue",
+    "Country Code": "GBR"
+}
+{
+    "Airline": "DEN",
+    "Callsign": "DENALI",
+    "Name": "Denali Airlines",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "EMF",
+    "Callsign": "PACKAGE",
+    "Name": "Express Mail Freight",
+    "Country Code": "FRA"
+}
+{
+    "Airline": "FRT",
+    "Callsign": "FIELD AIR",
+    "Name": "Feelthere International Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "MAX",
+    "Callsign": "MAGIC",
+    "Name": "Magic Express",
+    "Country Code": "USA"
+}
+{
+    "Airline": "PAV",
+    "Callsign": "PATIENCE",
+    "Name": "Silent Valley Airline",
+    "Country Code": "MEX"
+}
+{
+    "Airline": "TAB",
+    "Callsign": "LESLIE",
+    "Name": "Trans American",
+    "Country Code": "USA"
+}
+{
+    "Airline": "TGB",
+    "Callsign": "GLOBE",
+    "Name": "Trans Global",
+    "Country Code": "DEU"
+}
+{
+    "Airline": "VAL",
+    "Callsign": "VALUE",
+    "Name": "Value",
+    "Country Code": "USA"
+}
