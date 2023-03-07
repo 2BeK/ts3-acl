@@ -29,12 +29,12 @@ If you use a __custom schedule__ or any other __DLC airports__ you will need to 
    - If you see it python seems to be working fine
      - If not... well, please use your search engine of choice to find help
        - Some hints:
-         * Restart your computer
-         * python(.exe) needs to be in your Windows PATH system variable to work from any path
+         * Restart your computer (and redo step 2)
+         * ```python.exe``` needs to be in your Windows ```PATH``` system variable to work from any path
    - Close the python prompt by typing ```exit()``` and confirm
 3. If you want to use the Excel export, you'll have to install an additional library (if not continue with point 4.)
    - Back to the normal command line prompt ```C:\users\%username%>``` type in ```pip install openpyxl``` and confirm
-     -  This will install the openpyxl library - "A Python library to read/write Excel 2010 xlsx/xlsm files" (https://openpyxl.readthedocs.io/en/stable/)
+     - This will install the openpyxl library - "A Python library to read/write Excel 2010 xlsx/xlsm files" (https://openpyxl.readthedocs.io/en/stable/)
      - It should result in a response like this:
      ```
      Collecting openpyxl
