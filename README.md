@@ -65,7 +65,7 @@ If you've come so far - congratulations. The hardest part is done (hopefully).
 7. Download the file(s) you need and store them in an empty folder of your choice (e.g. ```C:\users\%username%\Desktop\TS3_ACL>```)
 
 #### Run the basic script
-8. After the files are downloaded to the folder, open it and open a new command line window in the folders path (by typing ```cmd``` into the adress line of the folder window: [SCREENSHOT MISSING])
+8. After the files are downloaded to the folder, open it and open a new command line window in the folders path (by typing ```cmd``` into the adress line of the folder window: [SCREENSHOT TBD])
 9. Start the basic script by typing ```python ts3_acl_csv_json.py``` (e.g. ```C:\users\%username%\Desktop\TS3_ACL>python ts3_acl_csv_json.py```) and confirm
 10. The script will ask for your game path:
     ```
@@ -73,14 +73,23 @@ If you've come so far - congratulations. The hardest part is done (hopefully).
     _
     ```
 11. Copy and paste your game path (or write it down) and confirm
-    - For steam installations: You can find the path under [STEAM DESCRIPTION]
+    - For steam installations: You can find the path in your steam library
+      - Right click on "Tower! Simulator 3" in the list on the left side
+      - Select Settings->Properties...->Local Files->Browse
     - For non-steam installations: You should know where you've installed the game ;)
-12. The script now automatically browses through the game folders and reads all the data it needs
-
-#### The Result
+12. The script now automatically parses the game folders and reads all the data it needs
 13. After the script has finished you will find two new subfolders (```csv``` and ```json```) in the directory where the script files are (e.g. ```C:\users\%username%\Desktop\TS3_ACL>```)
 14. In there you will find your lookup tables in CSV or JSON format separated by airport and schedule
 
 #### Run the Excel script
+15. Make sure you have done steps 8-14 - the next step will need the files from there
+16. Start the Excel script by typing ```python ts3_acl_excel.py``` (e.g. ```C:\users\%username%\Desktop\TS3_ACL>python ts3_acl_excel.py```) and confirm
+17. The script now automatically parses the CSV files and creates one Excel file that summarises all airports and schedules
+18. After the script has finished you will find another new subfolder (```excel```) in the directory where the script files are (e.g. ```C:\users\%username%\Desktop\TS3_ACL>```)
+19. In there you will find your lookup tables in one Excel file separated by airport and schedule
 
-#### The Result 2.0
+
+> Reminder - Everytime you change a schedule you'll need to run the script again to update your tables!
+
+
+That's it! Have fun :)
