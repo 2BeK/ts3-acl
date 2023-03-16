@@ -1,0 +1,396 @@
+{
+    "Airline": "AAL",
+    "Callsign": "AMERICAN",
+    "Name": "American Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "AAY",
+    "Callsign": "ALLEGIANT",
+    "Name": "Allegiant Air",
+    "Country Code": "USA"
+}
+{
+    "Airline": "ACA",
+    "Callsign": "AIR CANADA",
+    "Name": "Air Canada",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "AMX",
+    "Callsign": "AEROMEXICO",
+    "Name": "AeroMexico",
+    "Country Code": "MEX"
+}
+{
+    "Airline": "ASA",
+    "Callsign": "ALASKA",
+    "Name": "Alaska Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "BAW",
+    "Callsign": "SPEED BIRD",
+    "Name": "British Airways",
+    "Country Code": "GBR"
+}
+{
+    "Airline": "CMP",
+    "Callsign": "COPA",
+    "Name": "Copa Airlines",
+    "Country Code": "PAN"
+}
+{
+    "Airline": "DAL",
+    "Callsign": "DELTA",
+    "Name": "Delta Air Lines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "DAT",
+    "Callsign": "DAUNTLESS",
+    "Name": "Lynx Air",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "DOW",
+    "Callsign": "DOWN TOWN",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "DRL",
+    "Callsign": "DRILLER",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "EDG",
+    "Callsign": "JET EDGE",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "EJA",
+    "Callsign": "EXECJET",
+    "Name": "NetJets",
+    "Country Code": "USA"
+}
+{
+    "Airline": "EJM",
+    "Callsign": "JET SPEED",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "FDX",
+    "Callsign": "FEDEX",
+    "Name": "FEDERAL EXPRESS",
+    "Country Code": "USA"
+}
+{
+    "Airline": "FFT",
+    "Callsign": "FRONTIER FLIGHT",
+    "Name": "Frontier Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "FLE",
+    "Callsign": "FLAIR",
+    "Name": "Flair Airlines",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "FTH",
+    "Callsign": "FOOT HILLS",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "GAJ",
+    "Callsign": "GAMA JET",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "GTI",
+    "Callsign": "GIANT",
+    "Name": "Atlas Air",
+    "Country Code": "USA"
+}
+{
+    "Airline": "HAL",
+    "Callsign": "HAWAIIAN",
+    "Name": "Hawaiian Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "HRT",
+    "Callsign": "CHART RIGHT",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "JBU",
+    "Callsign": "JET BLUE",
+    "Name": "JetBlue Airways",
+    "Country Code": "USA"
+}
+{
+    "Airline": "JIT",
+    "Callsign": "JET IT",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "JRE",
+    "Callsign": "JET SHARE",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "JSL",
+    "Callsign": "SELECT JET",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "JSX",
+    "Callsign": "BIG STRIPE",
+    "Name": "JSX (JetSuiteX)",
+    "Country Code": "USA"
+}
+{
+    "Airline": "KAL",
+    "Callsign": "KOREAN AIR",
+    "Name": "Korean Air",
+    "Country Code": "PRK"
+}
+{
+    "Airline": "KPO",
+    "Callsign": "KRYPTO",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "LET",
+    "Callsign": "MEXALE",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "LXJ",
+    "Callsign": "FLEXJET",
+    "Name": "Flexjet",
+    "Country Code": "USA"
+}
+{
+    "Airline": "MXY",
+    "Callsign": "MOXY",
+    "Name": "Breeze Airways",
+    "Country Code": "USA"
+}
+{
+    "Airline": "N",
+    "Callsign": "JET CARD",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "NKS",
+    "Callsign": "SPIRIT WINGS",
+    "Name": "Spirit Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "NOJ",
+    "Callsign": "NOVA JET",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "OKC",
+    "Callsign": "THUNDER WINGS",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "PAT",
+    "Callsign": "PAT",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "PCM",
+    "Callsign": "PAC VALLEY",
+    "Name": "Westair Industries",
+    "Country Code": "USA"
+}
+{
+    "Airline": "PEG",
+    "Callsign": "PEG JET",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "QQE",
+    "Callsign": "Q REX",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "ROU",
+    "Callsign": "ROUGE",
+    "Name": "AIR CANADA ROUGE",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "SCX",
+    "Callsign": "SUN COUNTRY",
+    "Name": "Sun Country Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SJA",
+    "Callsign": "SAWYER",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "SKW",
+    "Callsign": "SKY WEST",
+    "Name": "SkyWest Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SLH",
+    "Callsign": "SILVER HAWK",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "SNC",
+    "Callsign": "NIGHT CARGO",
+    "Name": "Air Cargo Carriers",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SWA",
+    "Callsign": "SOUTHWEST",
+    "Name": "Southwest Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "TIV",
+    "Callsign": "THRIVE",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "TMB",
+    "Callsign": "VOLATO",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "TWY",
+    "Callsign": "TWILIGHT",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "UAL",
+    "Callsign": "UNITED",
+    "Name": "United Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "UPS",
+    "Callsign": "U P S",
+    "Name": "United Parcel Service",
+    "Country Code": "USA"
+}
+{
+    "Airline": "VIR",
+    "Callsign": "VIRGIN",
+    "Name": "Virgin Atlantic Airways",
+    "Country Code": "GBR"
+}
+{
+    "Airline": "VIV",
+    "Callsign": "VIAABVA",
+    "Name": "VivaAerobus",
+    "Country Code": "MEX"
+}
+{
+    "Airline": "VOI",
+    "Callsign": "VOLARIS",
+    "Name": "Volaris",
+    "Country Code": "MEX"
+}
+{
+    "Airline": "VTE",
+    "Callsign": "VOLUNTEER",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "WJA",
+    "Callsign": "WEST JET",
+    "Name": "WestJet",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "WSN",
+    "Callsign": "WINGSPAN",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "WSP",
+    "Callsign": "WHISPER JET",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "WSW",
+    "Callsign": "SWOOP",
+    "Name": "Swoop",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "WWI",
+    "Callsign": "WORLDWIDE",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "WWW",
+    "Callsign": "JANET",
+    "Name": "JANET",
+    "Country Code": "USA"
+}
+{
+    "Airline": "XA-DON",
+    "Callsign": "XRAY ALPHA DELTA OSCAR NOVEMBER",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "XA-RFB",
+    "Callsign": "XRAY ALPHA ROMEO FOXTROT BRAVO",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "XB-NDL",
+    "Callsign": "XRAY BRAVO NOVEMBER DELTA LIMA",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "XSM",
+    "Callsign": "AIR SMART",
+    "Name": "",
+    "Country Code": "GA"
+}

@@ -1,0 +1,84 @@
+{
+    "Airline": "ANG",
+    "Callsign": "GOLDSUN",
+    "Name": "Gold Sun Air",
+    "Country Code": "CHN"
+}
+{
+    "Airline": "BTV",
+    "Callsign": "WHITE SAND",
+    "Name": "Be There Vacation",
+    "Country Code": "BEL"
+}
+{
+    "Airline": "CBA",
+    "Callsign": "CHESHIRE",
+    "Name": "Chesire Blue",
+    "Country Code": "GBR"
+}
+{
+    "Airline": "DEN",
+    "Callsign": "DENALI",
+    "Name": "Denali Airlines",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "EMF",
+    "Callsign": "PACKAGE",
+    "Name": "Express Mail Freight",
+    "Country Code": "FRA"
+}
+{
+    "Airline": "FRT",
+    "Callsign": "FIELD AIR",
+    "Name": "Feelthere International Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "LAW",
+    "Callsign": "LATITUDE",
+    "Name": "Latitude Airways",
+    "Country Code": "NZL"
+}
+{
+    "Airline": "MAX",
+    "Callsign": "MAGIC",
+    "Name": "Magic Express",
+    "Country Code": "USA"
+}
+{
+    "Airline": "PAV",
+    "Callsign": "PATIENCE",
+    "Name": "Silent Valley Airline",
+    "Country Code": "MEX"
+}
+{
+    "Airline": "RAA",
+    "Callsign": "RAINIER",
+    "Name": "Rainier Air",
+    "Country Code": "NLD"
+}
+{
+    "Airline": "TAB",
+    "Callsign": "LESLIE",
+    "Name": "Trans American",
+    "Country Code": "USA"
+}
+{
+    "Airline": "TGB",
+    "Callsign": "GLOBE",
+    "Name": "Trans Global",
+    "Country Code": "DEU"
+}
+{
+    "Airline": "UAX",
+    "Callsign": "OZZY",
+    "Name": "Uluru",
+    "Country Code": "AUS"
+}
+{
+    "Airline": "VAL",
+    "Callsign": "VALUE",
+    "Name": "Value",
+    "Country Code": "USA"
+}
