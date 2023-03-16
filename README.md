@@ -15,10 +15,10 @@ There are three flavours available - [CSV](csv), [JSON](json) (single files for 
 
 Current state ```v1.0.1```:
 
-| Software                        | Version                    | Comment                                  |
-| ------------------------------- | -------------------------- | ---------------------------------------- |
-| Tower! Simulator 3 - Basic game | __Tower! Places 1 Update__ | incl. KLAX, KLGA, KRDU, TIST, TXKF       |
-| Nyerges Design - World Traffic  | __v2.1__                   | incl. KLAX, KLGA, KRDU, OMDB, TIST, TXKF |
+| Software                        | Version                    | Comment                                        |
+| ------------------------------- | -------------------------- | ---------------------------------------------- |
+| Tower! Simulator 3 - Basic game | __Tower! Places 1 Update__ | incl. KLAS, KLAX, KLGA, KRDU, TIST, TXKF       |
+| Nyerges Design - World Traffic  | __v3.0__                   | incl. KLAS, KLAX, KLGA, KRDU, OMDB, TIST, TXKF |
 
 ### Need more?
 If you use a __custom schedule__ or any other __DLC airports__ you will need to run the scripts by yourself to create your very own lookup tables.
@@ -94,6 +94,9 @@ That's it! Have fun :)
 
 ## Version history
 
+* v1.0.2
+  - Added KLAS DLC information for default and NyergesDesign databases
+  - Updated WT/WC pack to v3.0
 * v1.0.1
   - License added
 * v1.0.0
