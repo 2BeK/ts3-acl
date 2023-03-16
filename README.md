@@ -94,6 +94,8 @@ That's it! Have fun :)
 
 ## Version history
 
+* v1.0.3
+  - Bugfix for #5 (Add "XRAY" to exclusion list)
 * v1.0.2
   - Added KLAS DLC information for default and NyergesDesign databases
   - Updated WT/WC pack to v3.0

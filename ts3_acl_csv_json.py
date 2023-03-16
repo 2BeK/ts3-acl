@@ -15,7 +15,7 @@ from pathlib import Path
 exclusion_list = ['APLHA','BRAVO','CHARLIE','DELTA','ECHO','FOXTROT','GOLF',\
                   'HOTEL','INDIA','JULIET','KILO','LIMA','MIKE','NOVEMBER',\
                   'OSCAR','PAPA','QUEBEC','ROMEO','SIERRA','TANGO','UNIFORM',\
-                  'VICTOR','WHISKEY','X-RAY','YANKEE','ZULU',\
+                  'VICTOR','WHISKEY','X-RAY','XRAY','YANKEE','ZULU',\
                   'ZERO','ONE','TWO','THREE','FOUR','FIVE','SIX','SEVEN','EIGHT','NINER','NINE']
 			
 ## Create the parser
