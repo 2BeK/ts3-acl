@@ -82,15 +82,28 @@ for airport_path in airports_path.iterdir():
                     for row in csv_reader_object:
                         #print("{} - {}".format(row['callsign say'], re.split(re_list_callsign_say, row['callsign say'], maxsplit=1)))
                         #print("{}".format(row['callsign say']))
-                        if  row['callsign say'].strip().split(' ')[0].upper() not in exclusion_list and\
-                            not any(re.split(r'\d', row['callsign'].upper())[0].lstrip(' ') in airline for airline in callsign_table):
-                            #print("{}".format(row['callsign say'].split(' ')))
-                            #print("{}".format(re.split(re_list_callsign_say, row['callsign say'].upper())[0]))
-                            #print("{}".format(re.split(r'\d', row['callsign'].upper())))
-                            callsign_table.append([re.split(r'\d', row['callsign'].upper())[0].strip(),\
-                                                   re.split(re_list_callsign_say, row['callsign say'].upper())[0].strip(),\
-                                                   '',\
-                                                   'GA'])
+                        #print("{}".format(row['callsign say'].strip().split(' ')[0].upper()))
+                        #print("{} len: {}".format(re.split(r'\d', row['callsign'].upper())[0].strip(), len(re.split(r'\d', row['callsign'].upper())[0].strip())))
+                        
+                        ## Check if first 'callsign say' part is not yet in exclusion list
+                        if  row['callsign say'].strip().split(' ')[0].upper() not in exclusion_list:
+                            ## Check if stripped callsign has less than 2 letters (it's probably a GA)
+                            if  2 > len(re.split(r'\d', row['callsign'].upper())[0].strip()):
+                                ## Check that (full) callsign is not yet in calsign_table
+                                if not any(row['callsign'].upper().strip() in airline for airline in callsign_table):
+                                    ## Save whole callsign
+                                    callsign_table.append([row['callsign'].upper().strip(),\
+                                                           re.split(re_list_callsign_say, row['callsign say'].upper())[0].strip(),\
+                                                           '',\
+                                                           'GA'])
+                            else:
+                                ## Callsign has at least two letters - supposed to be a correct IATA/ICAO code
+                                if not any(re.split(r'\d', row['callsign'].upper())[0].lstrip(' ') in airline for airline in callsign_table):
+                                    callsign_table.append([re.split(r'\d', row['callsign'].upper())[0].strip(),\
+                                                           re.split(re_list_callsign_say, row['callsign say'].upper())[0].strip(),\
+                                                           '',\
+                                                           'GA'])
+                                
                 
                 sorted_callsign_table = sorted(callsign_table, key=lambda x: x[0])
                 
