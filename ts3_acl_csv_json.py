@@ -16,7 +16,7 @@ exclusion_list = ['APLHA','BRAVO','CHARLIE','DELTA','ECHO','FOXTROT','GOLF',\
                   'HOTEL','INDIA','JULIET','KILO','LIMA','MIKE','NOVEMBER',\
                   'OSCAR','PAPA','QUEBEC','ROMEO','SIERRA','TANGO','UNIFORM',\
                   'VICTOR','WHISKEY','X-RAY','XRAY','YANKEE','ZULU',\
-                  'ZERO','ONE','TWO','THREE','FOUR','FIVE','SIX','SEVEN','EIGHT','NINER','NINE']
+                  'ZERO','ONE','TWO','THREE','TREE','FOUR','FIVE','FIFE','SIX','SEVEN','EIGHT','NINE','NINER','NYNER']
 			
 ## Create the parser
 parser = argparse.ArgumentParser()
@@ -74,7 +74,7 @@ for airport_path in airports_path.iterdir():
                                                   row['Country code']])
                 
                 ga_path = database_path / 'ga.csv'
-                re_list_callsign_say = r'\b(ZERO|ONE|TWO|THREE|FOUR|FIVE|SIX|SEVEN|EIGHT|NINER|NINE)\b'
+                re_list_callsign_say = r'\b(ZERO|ONE|TWO|THREE|TREE|FOUR|FIVE|FIFE|SIX|SEVEN|EIGHT|NINE|NINER|NYNER)\b'
                 
                 with open(ga_path) as csv_file:
                     csv_reader_object = csv.DictReader(csv_file)
@@ -89,7 +89,7 @@ for airport_path in airports_path.iterdir():
                         if  row['callsign say'].strip().split(' ')[0].upper() not in exclusion_list:
                             ## Check if stripped callsign has less than 2 letters (it's probably a GA)
                             if  2 > len(re.split(r'\d', row['callsign'].upper())[0].strip()):
-                                ## Check that (full) callsign is not yet in calsign_table
+                                ## Check that (full) callsign is not yet in callsign_table
                                 if not any(row['callsign'].upper().strip() in airline for airline in callsign_table):
                                     ## Save whole callsign
                                     callsign_table.append([row['callsign'].upper().strip(),\

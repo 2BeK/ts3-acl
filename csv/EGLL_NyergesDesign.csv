@@ -1,0 +1,89 @@
+Airline,Callsign,Name,Country Code
+AAL,AMERICAN,American Airlines,USA
+AAR,ASIANA,Asiana Airlines,KOR
+ACA,AIR CANADA,Air Canada,CAN
+AEE,AEGEAN,Aegean Airlines,GRC
+AFR,AIR FRANCE,Air France,FRA
+AIC,AIR INDIA,Air India,IOT
+ALK,SRILANKAN,SriLankan Airlines,LKA
+AMC,AIR MALTA,Air Malta,MLT
+AMX,AEROMEXICO,AeroMexico,MEX
+ANA,ALL NIPPON,All Nippon Airways,JPN
+ASL,AIR SERBIA,Air Serbia,SRB
+AUA,AUSTRIAN,Austrian Airlines,AUT
+AVA,AVIANCA,Avianca - Aerovias Nacionales de Colombia,COL
+BAW,SPEED BIRD,British Airways,GBR
+BBC,BANGLADESH,Biman Bangladesh Airlines,BGD
+BCS,POSTMAN,European Air Transport N.V/S.A,BEL
+BEL,BEE LINE,Brussels Airlines,BEL
+BTX,BEETLE,,GA
+CAL,DYNASTY,China Airlines,TWN
+CBJ,CAPITAL JET,Beijing Capital Airlines,CHN
+CCA,AIR CHINA,Air China,CHN
+CES,CHINA EASTERN,China Eastern Airlines,CHN
+CPA,CATHAY,Cathay Pacific,HKG
+CPC,CATHAY CARGO,Cathay Pacific Cargo,HKG
+CSN,CHINA SOUTHERN,China Southern Airlines,CHN
+CSZ,SHENZHEN AIR,Shenzhen Airlines,CHN
+CTN,CROATIA,Croatia Airlines,HRV
+DAH,AIR ALGERIE,Air Algerie,DZA
+DAL,DELTA,Delta Air Lines,USA
+DLH,LUFTHANSA,Lufthansa German Airlines,DEU
+DUB,DUBAI,Dubai Royal Air Wing,ARE
+EIN,SHAMROCK,Aer Lingus,IRL
+ELY,ELAL,El Al Israel Airlines,ISR
+ESC,EMIRATES CARGO,Emirates Sky Cargo,ARE
+ETC,ETIHAD CARGO,Etihad Cargo,ARE
+ETD,ETIHAD,Etihad Airways,ARE
+ETH,ETHIOPIAN,Ethiopian Airlines,ETH
+EVA,EVA,EVA Airways,TWN
+EWG,EUROWINGS,Eurowings,DEU
+FIN,FIN AIR,Finnair,FIN
+GFA,GULF AIR,Gulf Air,BHR
+IBE,IBERIA,Iberia Airlines,ESP
+ICE,ICE AIR,Icelandair,ISL
+ITY,ITARROW,Italia Transporto Aereo S.p.A,ITA
+JAL,JAPAN AIR,Japan Airlines,JPN
+JBU,JET BLUE,JetBlue Airways,USA
+KAC,KUWAITI,Kuwait Airways,KWT
+KAL,KOREAN AIR,Korean Air,PRK
+KCA,KOREAN CARGO,Korean Air Cargo,KOR
+KLC,CITY,KLM Cityhopper,NLD
+KLM,KLM,KLM Royal Dutch Airlines,NLD
+KQA,KENYA,Kenya Airways,KEN
+LOG,LOGAN,Logan Air,GBR
+LOT,LOT,LOT Polish Airlines,POL
+LZB,FLYING BULGARIA,Bulgaria Air,BGR
+MAS,MALAYSIAN,Malaysia Airlines Berhad,MYS
+MAU,AIRMAURITIUS,Air Mauritius,MUS
+MEA,CEDAR JET,Middle East Airlines,LBN
+MSR,EGYPT AIR,Egyptair,EGY
+OAW,HELVETIC,Helvetic Airways,CHE
+OMA,OMAN AIR,Oman Aviation,OMN
+QAC,QATAR CARGO,Qatar Airways Cargo,QAT
+QFA,QANTAS,Qantas Airways,AUS
+QTR,QATARI,Qatar Airways,QAT
+RAM,ROYAL AIR MAROC,Royal Air Maroc,MAR
+RBA,BRUNEI,Royal Brunei Airlines,BRN
+RJA,JORDANIAN,Royal Jordanian,JOR
+ROT,TAROM,Romanian Air Transport,ROU
+RWD,RWANDAIR,Rwandair Express,RWA
+SAS,SCANDINAVIAN,SAS Scandinavian Airlines,SWE
+SEH,AIR CRETE,Sky Express,GRC
+SHT,SHUTTLE,British Airways Shuttle,UKR
+SIA,SINGAPORE,Singapore Airlines,SGP
+SQC,SINGAPORE CARGO,Singapore Airlines Cargo,SGP
+SVA,SAUDIA,Saudi Arabian Airlines,SAU
+SWR,SWISS,Swiss International Air Lines,CHE
+TAM,TAM,TAM Linhas Aereas,BRA
+TAP,AIR PORTUGAL,TAP Air Portugal,PRT
+THA,THAI,Thai Airways International,THA
+THY,TURKISH,Turkish Airlines,TUR
+TKC,TURKISH CARGO,Turkish Cargo Airline,TUR
+TUI,YELLOW CAB,Hapag-Lloyd Express (TUIfly),DEU
+UAE,EMIRATES,Emirates Airlines,ARE
+UAL,UNITED,United Airlines,USA
+UZB,UZBEK,Uzbekistan Airways,UZB
+VIR,VIRGIN,Virgin Atlantic Airways,GBR
+VTI,VISTARA,Vistara,IOT
+WJA,WEST JET,WestJet,CAN

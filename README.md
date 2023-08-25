@@ -13,12 +13,12 @@ As a beginner (and also as advanced player) it's a practical thing to have a lis
 You can use/download the resulting lookup table files for the basic game and Nyerges Design (https://www.nyergesdesign.com/) World Traffic standard schedules directly from the corresponding folders.
 There are three flavours available - [CSV](csv), [JSON](json) (single files for each airport/schedule) or [Excel](excel) (one file for all).
 
-Current state ```v1.0.3```:
+Current state ```v1.0.4```:
 
-| Software                        | Version                    | Comment                                        |
-| ------------------------------- | -------------------------- | ---------------------------------------------- |
-| Tower! Simulator 3 - Basic game | __Tower! Places 1 Update__ | incl. KLAS, KLAX, KLGA, KRDU, TIST, TXKF       |
-| Nyerges Design - World Traffic  | __v3.0__                   | incl. KLAS, KLAX, KLGA, KRDU, OMDB, TIST, TXKF |
+| Software                        | Version                    | Comment                                                                            |
+| ------------------------------- | -------------------------- | ---------------------------------------------------------------------------------- |
+| Tower! Simulator 3 - Basic game | __Tower! Places 2 Update__ | incl. EDDF, EDDS, KLAS, KLAX, KLGA, KRDU, TIST, TXKF                               |
+| Nyerges Design - World Traffic  | __v8.0__                   | incl. EDDF, EDDS, EGLL, KAUS, KBNA, KLAS, KLAX, KLGA, KRDU, LSZH, OMDB, TIST, TXKF |
 
 ### Need more?
 If you use a __custom schedule__ or any other __DLC airports__ you will need to run the scripts by yourself to create your very own lookup tables.
@@ -94,6 +94,9 @@ That's it! Have fun :)
 
 ## Version history
 
+* v1.0.4
+  - Updated to Tower! Places 2 Update (incl. EDDF, EDDS)
+  - Updated WT/WC pack to v8.0 (incl. EDDF, EDDS, EGLL, KAUS, KBNA, LSZH)
 * v1.0.3
   - Bugfix for #5 (Add "XRAY" to exclusion list)
   - Bugfix for #2 (Add full airline designator for special callsigns (e.g. MEDEVAC))

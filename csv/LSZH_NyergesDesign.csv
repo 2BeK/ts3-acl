@@ -1,0 +1,71 @@
+Airline,Callsign,Name,Country Code
+AAB,ABELAG,,GA
+AAL,AMERICAN,American Airlines,USA
+ACA,AIR CANADA,Air Canada,CAN
+AEA,EUROPA,Air Europa,ESP
+AEE,AEGEAN,Aegean Airlines,GRC
+AFR,AIR FRANCE,Air France,FRA
+AMC,AIR MALTA,Air Malta,MLT
+ASL,AIR SERBIA,Air Serbia,SRB
+AUA,AUSTRIAN,Austrian Airlines,AUT
+AWC,ZAP,Titan Airways,GBR
+AZE,ARCUS AIR,,GA
+BAW,SPEED BIRD,British Airways,GBR
+BCY,CITY IRELAND,City Jet,IRL
+BHZ,ALPINE STAR,,GA
+BNI,BARTOLINI,,GA
+BTI,AIR BALTIC,Air Baltic,LVA
+CFE,FLYER,British Airways CityFlyer,GBR
+CLH,LUFTHANSA,Lufthansa CityLine,DEU
+CPA,CATHAY,Cathay Pacific,HKG
+CTN,CROATIA,Croatia Airlines,HRV
+DAL,DELTA,Delta Air Lines,USA
+DLH,LUFTHANSA,Lufthansa German Airlines,DEU
+EDW,EDELWEISS,Edelweiss Air,CHE
+EIN,SHAMROCK,Aer Lingus,IRL
+EJU,ALPINE,easy Jet Europe,AUT
+ELY,ELAL,El Al Israel Airlines,ISR
+ESW,W BUSINESS,,GA
+ETD,ETIHAD,Etihad Airways,ARE
+ETH,ETHIOPIAN,Ethiopian Airlines,ETH
+EWG,EUROWINGS,Eurowings,DEU
+EZY,EASY,EasyJet Airline,GBR
+FIN,FIN AIR,Finnair,FIN
+GAC,DREAM TEAM,,GA
+GSW,EIGER,Chair Airlines,CHE
+HRN,HERON AIR,,GA
+HUE,HAUTE,,GA
+IBE,IBERIA,Iberia Airlines,ESP
+ITY,ITARROW,Italia Transporto Aereo S.p.A,ITA
+JFA,MOSQUITO,,GA
+JSY,JUNG SKY,,GA
+KLC,CITY,KLM Cityhopper,NLD
+KLM,KLM,KLM Royal Dutch Airlines,NLD
+LOT,LOT,LOT Polish Airlines,POL
+LZB,FLYING BULGARIA,Bulgaria Air,BGR
+NJE,FRACTION,Net Jets Europe,PRT
+OAW,HELVETIC,Helvetic Airways,CHE
+OMA,OMAN AIR,Oman Aviation,OMN
+PGA,PORTUGALIA,Portugalia,PRT
+PGT,SUNTURK,Pegasus Airlines,TUR
+PJZ,PRIME JET,,GA
+PNC,PRINCE AVIATION,,GA
+QTR,QATARI,Qatar Airways,QAT
+SAS,SCANDINAVIAN,SAS Scandinavian Airlines,SWE
+SAZ,SWISS AMBULANCE,Swiss Air-Ambulance Ltd,CHE
+SIA,SINGAPORE,Singapore Airlines,SGP
+SVA,SAUDIA,Saudi Arabian Airlines,SAU
+SWR,SWISS,Swiss International Air Lines,CHE
+SWW,LAKE,,GA
+SXS,SUN EXPRESS,SunExpress,TUR
+TAP,AIR PORTUGAL,TAP Air Portugal,PRT
+THA,THAI,Thai Airways International,THA
+THY,TURKISH,Turkish Airlines,TUR
+TKC,TURKISH CARGO,Turkish Cargo Airline,TUR
+TKJ,TURKISH,Anadolu Jet,TUR
+UAE,EMIRATES,Emirates Airlines,ARE
+UAL,UNITED,United Airlines,USA
+VJT,VISTA JET,,GA
+VLG,VUELING,Vueling,ESP
+VLJ,VALLJET,,GA
+VLZ,VOLARE,,GA
