@@ -23,12 +23,6 @@
     "Country Code": "CAN"
 }
 {
-    "Airline": "EMF",
-    "Callsign": "PACKAGE",
-    "Name": "Express Mail Freight",
-    "Country Code": "FRA"
-}
-{
     "Airline": "FRT",
     "Callsign": "FIELD AIR",
     "Name": "Feelthere International Airlines",
@@ -47,16 +41,16 @@
     "Country Code": "USA"
 }
 {
-    "Airline": "PAV",
-    "Callsign": "PATIENCE",
-    "Name": "Silent Valley Airline",
-    "Country Code": "MEX"
-}
-{
     "Airline": "RAA",
     "Callsign": "RAINIER",
     "Name": "Rainier Air",
     "Country Code": "NLD"
+}
+{
+    "Airline": "TAB",
+    "Callsign": "LESLIE",
+    "Name": "Trans American",
+    "Country Code": "USA"
 }
 {
     "Airline": "TGB",

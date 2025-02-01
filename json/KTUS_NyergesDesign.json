@@ -1,0 +1,90 @@
+{
+    "Airline": "AAL",
+    "Callsign": "AMERICAN",
+    "Name": "American Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "AMF",
+    "Callsign": "AMFLIGHT",
+    "Name": "Ameriflight",
+    "Country Code": "USA"
+}
+{
+    "Airline": "ASA",
+    "Callsign": "ALASKA",
+    "Name": "Alaska Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "CAK",
+    "Callsign": "CACTUS",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "CYO",
+    "Callsign": "COYOTE",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "DAL",
+    "Callsign": "DELTA",
+    "Name": "Delta Air Lines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "ENY",
+    "Callsign": "ENVOY",
+    "Name": "Envoy Air Inc",
+    "Country Code": "USA"
+}
+{
+    "Airline": "EPI",
+    "Callsign": "EPI RED",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "ERU",
+    "Callsign": "RIDDLE",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "FDX",
+    "Callsign": "FEDEX",
+    "Name": "FEDERAL EXPRESS",
+    "Country Code": "USA"
+}
+{
+    "Airline": "FTH",
+    "Callsign": "FOOT HILLS",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "SIS",
+    "Callsign": "SILVER SPEED",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "SKW",
+    "Callsign": "SKY WEST",
+    "Name": "SkyWest Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SWA",
+    "Callsign": "SOUTHWEST",
+    "Name": "Southwest Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "UAL",
+    "Callsign": "UNITED",
+    "Name": "United Airlines",
+    "Country Code": "USA"
+}

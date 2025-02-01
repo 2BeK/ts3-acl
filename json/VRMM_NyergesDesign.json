@@ -1,0 +1,252 @@
+{
+    "Airline": "AFL",
+    "Callsign": "AERO FLOT",
+    "Name": "Aeroflot Russian Airlines",
+    "Country Code": "BLR"
+}
+{
+    "Airline": "AIQ",
+    "Callsign": "THAI ASIA",
+    "Name": "Thai AirAsia",
+    "Country Code": "THA"
+}
+{
+    "Airline": "ALK",
+    "Callsign": "SRILANKAN",
+    "Name": "SriLankan Airlines",
+    "Country Code": "LKA"
+}
+{
+    "Airline": "AMQ",
+    "Callsign": "AMEX",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "AUA",
+    "Callsign": "AUSTRIAN",
+    "Name": "Austrian Airlines",
+    "Country Code": "AUT"
+}
+{
+    "Airline": "AXM",
+    "Callsign": "RED CAP",
+    "Name": "AirAsia Berhad",
+    "Country Code": "MYS"
+}
+{
+    "Airline": "AZV",
+    "Callsign": "AZUR AIR",
+    "Name": "Azur Air",
+    "Country Code": "UKR"
+}
+{
+    "Airline": "BAW",
+    "Callsign": "SPEED BIRD",
+    "Name": "British Airways",
+    "Country Code": "GBR"
+}
+{
+    "Airline": "BKP",
+    "Callsign": "BANGKOK AIR",
+    "Name": "Bangkok Airways",
+    "Country Code": "THA"
+}
+{
+    "Airline": "BYD",
+    "Callsign": "BEOND",
+    "Name": "Beond",
+    "Country Code": "MDV"
+}
+{
+    "Airline": "CBJ",
+    "Callsign": "CAPITAL JET",
+    "Name": "Beijing Capital Airlines",
+    "Country Code": "CHN"
+}
+{
+    "Airline": "CES",
+    "Callsign": "CHINA EASTERN",
+    "Name": "China Eastern Airlines",
+    "Country Code": "CHN"
+}
+{
+    "Airline": "CFG",
+    "Callsign": "CONDOR",
+    "Name": "Condor Flugdienst",
+    "Country Code": "DEU"
+}
+{
+    "Airline": "CRK",
+    "Callsign": "BAUHINIA",
+    "Name": "Hong Kong Airlines",
+    "Country Code": "HKG"
+}
+{
+    "Airline": "CSC",
+    "Callsign": "SI CHUAN",
+    "Name": "Sichuan Airlines",
+    "Country Code": "CHN"
+}
+{
+    "Airline": "DQA",
+    "Callsign": "ISLAND AVIATION",
+    "Name": "Maldivian",
+    "Country Code": "MDV"
+}
+{
+    "Airline": "ETD",
+    "Callsign": "ETIHAD",
+    "Name": "Etihad Airways",
+    "Country Code": "ARE"
+}
+{
+    "Airline": "FDB",
+    "Callsign": "SKY DUBAI",
+    "Name": "Flydubai",
+    "Country Code": "ARE"
+}
+{
+    "Airline": "GFA",
+    "Callsign": "GULF AIR",
+    "Name": "Gulf Air",
+    "Country Code": "BHR"
+}
+{
+    "Airline": "HYS",
+    "Callsign": "SKY EUROPE",
+    "Name": "HiSky Europe",
+    "Country Code": "ROM"
+}
+{
+    "Airline": "IGO",
+    "Callsign": "IFLY",
+    "Name": "IndiGo Airlines",
+    "Country Code": "IND"
+}
+{
+    "Airline": "ITY",
+    "Callsign": "ITARROW",
+    "Name": "Italia Transporto Aereo S.p.A",
+    "Country Code": "ITA"
+}
+{
+    "Airline": "KZR",
+    "Callsign": "ASTANALINE",
+    "Name": "Air Astana/FlyArystan",
+    "Country Code": "KAZ"
+}
+{
+    "Airline": "MAV",
+    "Callsign": "SEA WING",
+    "Name": "Manta Aviation",
+    "Country Code": "MDV"
+}
+{
+    "Airline": "MJF",
+    "Callsign": "EM EXPRESS",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "MXD",
+    "Callsign": "MALINDO",
+    "Name": "Batik Air Malaysia",
+    "Country Code": "MYS"
+}
+{
+    "Airline": "NOS",
+    "Callsign": "MOON FLOWER",
+    "Name": "Neos S.p.a.",
+    "Country Code": "ITA"
+}
+{
+    "Airline": "OCN",
+    "Callsign": "OCEAN",
+    "Name": "Discover Airlines",
+    "Country Code": "DEU"
+}
+{
+    "Airline": "OMA",
+    "Callsign": "OMAN AIR",
+    "Name": "Oman Aviation",
+    "Country Code": "OMN"
+}
+{
+    "Airline": "QQE",
+    "Callsign": "Q REX",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "QTR",
+    "Callsign": "QATARI",
+    "Name": "Qatar Airways",
+    "Country Code": "QAT"
+}
+{
+    "Airline": "RHH",
+    "Callsign": "STAR CRESCENT",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "SIA",
+    "Callsign": "SINGAPORE",
+    "Name": "Singapore Airlines",
+    "Country Code": "SGP"
+}
+{
+    "Airline": "SWR",
+    "Callsign": "SWISS",
+    "Name": "Swiss International Air Lines",
+    "Country Code": "CHE"
+}
+{
+    "Airline": "THY",
+    "Callsign": "TURKISH",
+    "Name": "Turkish Airlines",
+    "Country Code": "TUR"
+}
+{
+    "Airline": "UAE",
+    "Callsign": "EMIRATES",
+    "Name": "Emirates Airlines",
+    "Country Code": "ARE"
+}
+{
+    "Airline": "UBG",
+    "Callsign": "BANGLA STAR",
+    "Name": "US-Bangla Airlines",
+    "Country Code": "BGD"
+}
+{
+    "Airline": "VIR",
+    "Callsign": "VIRGIN",
+    "Name": "Virgin Atlantic Airways",
+    "Country Code": "GBR"
+}
+{
+    "Airline": "VJT",
+    "Callsign": "VISTA JET",
+    "Name": "Vista Jet Malta",
+    "Country Code": "MLT"
+}
+{
+    "Airline": "VQI",
+    "Callsign": "VILLA AIR",
+    "Name": "Flyme",
+    "Country Code": "MDV"
+}
+{
+    "Airline": "VTI",
+    "Callsign": "VISTARA",
+    "Name": "Vistara",
+    "Country Code": "IND"
+}
+{
+    "Airline": "WAZ",
+    "Callsign": "WIZZ SKY",
+    "Name": "Wizz Air Abu Dhabi",
+    "Country Code": "ARE"
+}

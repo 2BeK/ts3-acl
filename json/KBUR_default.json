@@ -1,0 +1,66 @@
+{
+    "Airline": "DEN",
+    "Callsign": "DENALI",
+    "Name": "Denali Airlines",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "DPJ",
+    "Callsign": "JET CARD",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "EMF",
+    "Callsign": "PACKAGE",
+    "Name": "Express Mail Freight",
+    "Country Code": "FRA"
+}
+{
+    "Airline": "FFL",
+    "Callsign": "FORE FLIGHT",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "FRT",
+    "Callsign": "FIELD AIR",
+    "Name": "Feelthere International Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "GAJ",
+    "Callsign": "GAMA JET",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "MAX",
+    "Callsign": "MAGIC",
+    "Name": "Magic Express",
+    "Country Code": "USA"
+}
+{
+    "Airline": "NFX",
+    "Callsign": "SUNSET",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "TAB",
+    "Callsign": "LESLIE",
+    "Name": "Trans American",
+    "Country Code": "USA"
+}
+{
+    "Airline": "TWY",
+    "Callsign": "TWILIGHT",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "VAL",
+    "Callsign": "VALUE",
+    "Name": "Value",
+    "Country Code": "USA"
+}

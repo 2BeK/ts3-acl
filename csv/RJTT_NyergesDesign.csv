@@ -1,0 +1,48 @@
+Airline,Callsign,Name,Country Code
+AAL,AMERICAN,American Airlines,USA
+AAR,ASIANA,Asiana Airlines,KOR
+ACA,AIR CANADA,Air Canada,CAN
+ADO,AIR DO,Air Do,JPN
+AFR,AIR FRANCE,Air France,FRA
+AJX,AIR JAPAN,Air Japan,JPN
+AKX,ALFA WING,ANA Wings,JPN
+ANA,ALL NIPPON,All Nippon Airways,JPN
+APJ,AIR PEACH,Peach,JPN
+BAW,SPEED BIRD,British Airways,GBR
+CAL,DYNASTY,China Airlines,TWN
+CCA,AIR CHINA,Air China,CHN
+CES,CHINA EASTERN,China Eastern Airlines,CHN
+CPA,CATHAY,Cathay Pacific,HKG
+CSH,SHANGHAI AIR,Shanghai Airlines,CHN
+CSN,CHINA SOUTHERN,China Southern Airlines,CHN
+DAL,DELTA,Delta Air Lines,USA
+DKH,AIR JUNEYAO,Juneyao Airlines,CHN
+DLH,LUFTHANSA,Lufthansa German Airlines,DEU
+EVA,EVA,EVA Airways,TWN
+FIN,FIN AIR,Finnair,FIN
+GCR,BOHAI,TianJin Airlines,CHN
+GIA,INDONESIA,Garuda Indonesia,IDN
+HAL,HAWAIIAN,Hawaiian Airlines,USA
+HKE,HONG KONG SHUTTLE,Hong Kong Express ,HKG
+HVN,VIETNAM AIRLINES,Vietnam Airlines,VNM
+ITY,ITARROW,Italia Transporto Aereo S.p.A,ITA
+JAL,JAPAN AIR,Japan Airlines,JPN
+JTA,JAY OCEAN,Japan Transocean Air,JPN
+KAL,KOREAN AIR,Korean Air,PRK
+PAL,PHILIPPINE,Philippine Airlines,PHL
+QFA,QANTAS,Qantas Airways,AUS
+QQE,Q REX,,GA
+QTR,QATARI,Qatar Airways,QAT
+SFJ,STARFLYER,Starflyer,JPN
+SIA,SINGAPORE,Singapore Airlines,SGP
+SKY,SKYMARK,Skymark Airlines,JPN
+SNJ,NEW SKY,Solaseed,JPN
+THA,THAI,Thai Airways International,THA
+THY,TURKISH,Turkish Airlines,TUR
+TTW,SMART CAT,Tigerair Taiwan,TWN
+UAE,EMIRATES,Emirates Airlines,ARE
+UAL,UNITED,United Airlines,USA
+VJC,VIETJET AIR,VietJet Air,VNM
+VJT,VISTA JET,Vista Jet Malta,MLT
+VOZ,VELOCITY,Virgin Australia,AUS
+XAX,XANADU,AirAsia X,MYS

@@ -1,0 +1,168 @@
+{
+    "Airline": "AAL",
+    "Callsign": "AMERICAN",
+    "Name": "American Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "AIP",
+    "Callsign": "ALPINE AIR",
+    "Name": "Alpine Aviation",
+    "Country Code": "USA"
+}
+{
+    "Airline": "AJT",
+    "Callsign": "AMERIJET",
+    "Name": "Amerijet International Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "ALP",
+    "Callsign": "APLINER",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "AMF",
+    "Callsign": "AMFLIGHT",
+    "Name": "Ameriflight",
+    "Country Code": "USA"
+}
+{
+    "Airline": "ASA",
+    "Callsign": "ALASKA",
+    "Name": "Alaska Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "ATN",
+    "Callsign": "AIR TRANSPORT",
+    "Name": "Air Transport Intl.",
+    "Country Code": "USA"
+}
+{
+    "Airline": "CAK",
+    "Callsign": "CACTUS",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "CAL",
+    "Callsign": "DYNASTY",
+    "Name": "China Airlines",
+    "Country Code": "TWN"
+}
+{
+    "Airline": "CFS",
+    "Callsign": "EMPIRE AIR",
+    "Name": "Empire Air",
+    "Country Code": "USA"
+}
+{
+    "Airline": "DAL",
+    "Callsign": "DELTA",
+    "Name": "Delta Air Lines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "FDX",
+    "Callsign": "FEDEX",
+    "Name": "FEDERAL EXPRESS",
+    "Country Code": "USA"
+}
+{
+    "Airline": "FFT",
+    "Callsign": "FRONTIER FLIGHT",
+    "Name": "Frontier Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "GTI",
+    "Callsign": "GIANT",
+    "Name": "Atlas Air",
+    "Country Code": "USA"
+}
+{
+    "Airline": "HAL",
+    "Callsign": "HAWAIIAN",
+    "Name": "Hawaiian Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "JBU",
+    "Callsign": "JET BLUE",
+    "Name": "JetBlue Airways",
+    "Country Code": "USA"
+}
+{
+    "Airline": "LXJ",
+    "Callsign": "FLEXJET",
+    "Name": "Flexjet",
+    "Country Code": "USA"
+}
+{
+    "Airline": "PCM",
+    "Callsign": "PAC VALLEY",
+    "Name": "Westair Industries",
+    "Country Code": "USA"
+}
+{
+    "Airline": "PPQ",
+    "Callsign": "PERSON AS PAQ",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "PRE",
+    "Callsign": "PRECISION",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "RVF",
+    "Callsign": "RAVEN FLIGHT",
+    "Name": "New Pacific Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SCM",
+    "Callsign": "SCREAMER",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "SKW",
+    "Callsign": "SKY WEST",
+    "Name": "SkyWest Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SWA",
+    "Callsign": "SOUTHWEST",
+    "Name": "Southwest Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "TAI",
+    "Callsign": "TACA",
+    "Name": "Avianca El Salvador",
+    "Country Code": "SLV"
+}
+{
+    "Airline": "UAL",
+    "Callsign": "UNITED",
+    "Name": "United Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "UPS",
+    "Callsign": "U P S",
+    "Name": "United Parcel Service",
+    "Country Code": "USA"
+}
+{
+    "Airline": "VOI",
+    "Callsign": "VOLARIS",
+    "Name": "Volaris",
+    "Country Code": "MEX"
+}
