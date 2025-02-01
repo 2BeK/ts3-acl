@@ -1,0 +1,258 @@
+{
+    "Airline": "AAL",
+    "Callsign": "AMERICAN",
+    "Name": "American Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "AAY",
+    "Callsign": "ALLEGIANT",
+    "Name": "Allegiant Air",
+    "Country Code": "USA"
+}
+{
+    "Airline": "ASA",
+    "Callsign": "ALASKA",
+    "Name": "Alaska Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "ASH",
+    "Callsign": "Air Shuttle",
+    "Name": "Mesa Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "BAW",
+    "Callsign": "SPEED BIRD",
+    "Name": "British Airways",
+    "Country Code": "GBR"
+}
+{
+    "Airline": "CNS",
+    "Callsign": "CHRONOS",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "DAL",
+    "Callsign": "DELTA",
+    "Name": "Delta Air Lines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "EDV",
+    "Callsign": "ENDEAVOR",
+    "Name": "Endeavor Air",
+    "Country Code": "USA"
+}
+{
+    "Airline": "EJA",
+    "Callsign": "EXECJET",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "EJM",
+    "Callsign": "JET SPEED",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "ENY",
+    "Callsign": "ENVOY",
+    "Name": "Envoy Air Inc",
+    "Country Code": "USA"
+}
+{
+    "Airline": "FDX",
+    "Callsign": "FEDEX",
+    "Name": "FEDERAL EXPRESS",
+    "Country Code": "USA"
+}
+{
+    "Airline": "FDY",
+    "Callsign": "FRIENDLY",
+    "Name": "Southern Airways Express",
+    "Country Code": "USA"
+}
+{
+    "Airline": "FTH",
+    "Callsign": "FOOT HILLS",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "GJS",
+    "Callsign": "LINDBERGH",
+    "Name": "GoJet Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "GXA",
+    "Callsign": "GEMINI",
+    "Name": "Global Crossing Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "HRT",
+    "Callsign": "CHARTWRIGHT",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "JBU",
+    "Callsign": "JET BLUE",
+    "Name": "JetBlue Airways",
+    "Country Code": "USA"
+}
+{
+    "Airline": "JIA",
+    "Callsign": "BLUE STREAK",
+    "Name": "PSA Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "JRE",
+    "Callsign": "JET SHARE",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "JZA",
+    "Callsign": "JAZZ",
+    "Name": "Air Canada Jazz",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "LAK",
+    "Callsign": "LAKES AIR",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "LXJ",
+    "Callsign": "FLEXJET",
+    "Name": "Flexjet",
+    "Country Code": "USA"
+}
+{
+    "Airline": "MTN",
+    "Callsign": "MOUNTAIN",
+    "Name": "Mountain Air Cargo",
+    "Country Code": "USA"
+}
+{
+    "Airline": "MXY",
+    "Callsign": "MOXY",
+    "Name": "Breeze Airways",
+    "Country Code": "USA"
+}
+{
+    "Airline": "NKS",
+    "Callsign": "SPIRIT WINGS",
+    "Name": "Spirit Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "PDT",
+    "Callsign": "PIEDMONT",
+    "Name": "Piedmont Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "PJC",
+    "Callsign": "PITTSBURGH JET",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "RPA",
+    "Callsign": "BRICKYARD",
+    "Name": "Republic Airways",
+    "Country Code": "USA"
+}
+{
+    "Airline": "RVJ",
+    "Callsign": "RIVERS JET",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "SCW",
+    "Callsign": "CHARTER WEST",
+    "Name": "SkyWest Charter",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SCX",
+    "Callsign": "SUN COUNTRY",
+    "Name": "Sun Country Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SKW",
+    "Callsign": "SKY WEST",
+    "Name": "SkyWest Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SWA",
+    "Callsign": "SOUTHWEST",
+    "Name": "Southwest Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SWQ",
+    "Callsign": "SWIFT FLIGHT",
+    "Name": "iAero Airways",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SXC",
+    "Callsign": "AMAZON AIR",
+    "Name": "Sun Country Amazon Prime Cargo",
+    "Country Code": "USA"
+}
+{
+    "Airline": "TFF",
+    "Callsign": "TALON",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "TWY",
+    "Callsign": "TWILIGHT",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "UAL",
+    "Callsign": "UNITED",
+    "Name": "United Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "UPS",
+    "Callsign": "U P S",
+    "Name": "United Parcel Service",
+    "Country Code": "USA"
+}
+{
+    "Airline": "UWD",
+    "Callsign": "UPWARD",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "VJA",
+    "Callsign": "CRITTER",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "WIG",
+    "Callsign": "WIGGINGS",
+    "Name": "",
+    "Country Code": "GA"
+}

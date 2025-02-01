@@ -59,6 +59,18 @@
     "Country Code": "NLD"
 }
 {
+    "Airline": "RHH",
+    "Callsign": "STAR CRESCENT",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "TAB",
+    "Callsign": "LESLIE",
+    "Name": "Trans American",
+    "Country Code": "USA"
+}
+{
     "Airline": "TGB",
     "Callsign": "GLOBE",
     "Name": "Trans Global",

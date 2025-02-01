@@ -1,0 +1,65 @@
+Airline,Callsign,Name,Country Code
+AAC,ASIANA CARGO,Asiana Airlines Cargo,KOR
+AAL,AMERICAN,American Airlines,USA
+AAR,ASIANA,Asiana Airlines,KOR
+ABX,ABEX AIR,Airborne Express,USA
+ACA,AIR CANADA,Air Canada,CAN
+AFR,AIR FRANCE,Air France,FRA
+AIC,AIR INDIA,Air India,IOT
+AMX,AEROMEXICO,AeroMexico,MEX
+ANA,ALL NIPPON,All Nippon Airways,JPN
+ASA,ALASKA,Alaska Airlines,USA
+ATN,AIR TRANSPORT,Air Transport Intl.,USA
+BAW,SPEED BIRD,British Airways,GBR
+CAC,DYNASTY,China Airlines Cargo,CHN
+CAL,DYNASTY,China Airlines,TWN
+CFG,CONDOR,Condor Flugdienst,DEU
+CMP,COPA,Copa Airlines,PAN
+CPA,CATHAY,Cathay Pacific,HKG
+CSB,CARGO SOUTH,21 Air LLC,USA
+DAL,DELTA,Delta Air Lines,USA
+DLH,LUFTHANSA,Lufthansa German Airlines,DEU
+EDG,JET EDGE,,GA
+EIN,SHAMROCK,Aer Lingus,IRL
+EJA,EXECJET,NetJets,USA
+EJM,JET SPEED,,GA
+EVA,EVA,EVA Airways,TWN
+FBU,FRENCH BEE,French Bee,FRA
+FDX,FEDEX,FEDERAL EXPRESS,USA
+FFT,FRONTIER FLIGHT,Frontier Airlines,USA
+FJI,FIJI,Fiji Airways,FJI
+FLE,FLAIR,Flair Airlines,CAN
+FTH,FOOT HILLS,,GA
+HAL,HAWAIIAN,Hawaiian Airlines,USA
+HVN,VIET NAM AIRLINES,Vietnam Airlines,VNM
+IBE,IBERIA,Iberia Airlines,ESP
+ITY,ITARROW,Italia Transporto Aereo S.p.A,ITA
+JAL,JAPAN AIR,Japan Airlines,JPN
+JBU,JET BLUE,JetBlue Airways,USA
+JRE,JET SHARE,,GA
+JZA,JAZZ,Air Canada Jazz,CAN
+KAL,KOREAN AIR,Korean Air,PRK
+KLM,KLM,KLM Royal Dutch Airlines,NLD
+LXJ,FLEXJET,Flexjet,USA
+MXY,MOXY,Breeze Airways,USA
+NBT,LONG  SHIP,Norse Atlantic Airways AS,NOR
+PAL,PHILIPPINE,Philippine Airlines,PHL
+QFA,QANTAS,Qantas Airways,AUS
+QTR,QATARI,Qatar Airways,QAT
+QXE,HORIZON AIR,Horizon Airlines,USA
+SAS,SCANDINAVIAN,SAS Scandinavian Airlines,SWE
+SCX,SUN COUNTRY,Sun Country Airlines,USA
+SIA,SINGAPORE,Singapore Airlines,SGP
+SKW,SKY WEST,SkyWest Airlines,USA
+SWA,SOUTHWEST,Southwest Airlines,USA
+SWR,SWISS,Swiss International Air Lines,CHE
+TAI,TACA,Avianca El Salvador,SLV
+THY,TURKISH,Turkish Airlines,TUR
+TIV,THRIVE,,GA
+TSC,AIR TRANSAT,Air Transat,CAN
+TZP,ZIPPY,Zipair Tokyo,JPN
+UAE,EMIRATES,Emirates Airlines,ARE
+UAL,UNITED,United Airlines,USA
+VIR,VIRGIN,Virgin Atlantic Airways,GBR
+WJA,WEST JET,WestJet,CAN
+WWI,WORLD WIDE,,GA

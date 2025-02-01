@@ -1,0 +1,90 @@
+Airline,Callsign,Name,Country Code
+AAL,AMERICAN,American Airlines,USA
+ABR,CONTRACT,ASL Airlines Ireland,IRL
+ACA,AIR CANADA,Air Canada,CAN
+AEA,EUROPA,Air Europa,ESP
+AEE,AEGEAN,Aegean Airlines,GRC
+AFR,AIR FRANCE,Air France,FRA
+AHO,AIR HAMBURG,,GA
+ANE,AIR NOSTRUM,Air Nostrum,ESP
+ASL,AIR SERBIA,Air Serbia,SRB
+AUA,AUSTRIAN,Austrian Airlines,AUT
+AVA,AVIANCA,Avianca - Aerovias Nacionales de Colombia,COL
+BAW,SPEED BIRD,British Airways,GBR
+BBG,BLUE BIRD,Bluebird Airways,GRC
+BCS,POSTMAN,European Air Transport N.V/S.A,BEL
+BEL,BEE LINE,Brussels Airlines,BEL
+BTI,AIR BALTIC,Air Baltic,LVA
+CCA,AIR CHINA,Air China,CHN
+CSZ,SHENZHEN AIR,Shenzhen Airlines,CHN
+DAH,AIR ALGERIE,Air Algerie,DZA
+DAL,DELTA,Delta Air Lines,USA
+DLH,LUFTHANSA,Lufthansa German Airlines,DEU
+ECC,ECLAIR,,GA
+EJU,ALPINE,Easy Jet Europe,AUT
+ELJ,TOP JET,,GA
+ELY,EL AL,El Al Israel Airlines,ISR
+ETD,ETIHAD,Etihad Airways,ARE
+EUW,EURO WEST,,GA
+EVE,EVELOP,Evelop! Airlines,ESP
+EWG,EURO WINGS,Eurowings,DEU
+EXS,CHANNEX,Jet2.com,GBR
+EZS,TOP SWISS,EasyJet Switzerland,CHE
+EZY,EASY,EasyJet Airline,GBR
+FDX,FEDEX,FEDERAL EXPRESS,USA
+FIN,FIN AIR,Finnair,FIN
+FJO,FLEX MALTA,,GA
+FPY,PLAYER,PLAY,ISL
+FSF,ROCKY,,GA
+GES,GESTAIR,,GA
+HAT,SKY RUNNER,Air Horizont,MLT
+HYS,SKY EUROPE,HiSky Europe,ROM
+IBE,IBERIA,Iberia Airlines,ESP
+ICC,CARTO,,GA
+ITY,ITARROW,Italia Transporto Aereo S.p.A,ITA
+JFA,MOSQUITO,,GA
+JME,JET MAN,,GA
+KAL,KOREAN AIR,Korean Air,PRK
+KLM,KLM,KLM Royal Dutch Airlines,NLD
+LDA,RYAN AIR,Lauda Air,AUT
+LGL,LUXAIR,Luxair,LUX
+LOT,LOT,LOT Polish Airlines,POL
+MAC,AIR ARABIA MAROC,Air Arabia Maroc,MAR
+MSR,EGYPT AIR,Egyptair,EGY
+NOZ,NORDIC,Norwegian Air Shuttle AOC AS,NOR
+NSZ,RED NOSE,Norwegian Air Sweden AOC,SWE
+OCJ,OVER STAR,,GA
+OCN,OCEAN,Discover Airlines,DEU
+ORO,CAPRI,,GA
+PGA,PORTUGALIA,Portugalia TAP Express,PRT
+PGT,SUNTURK,Pegasus Airlines,TUR
+PVG,PRIVALEGE,Privilege Style,SPA
+QAV,QUIET AVIATION,,GA
+QTR,QATARI,Qatar Airways,QAT
+RAM,ROYAL AIR MAROC,Royal Air Maroc,MAR
+RYR,RYAN AIR,Ryanair,IRL
+RZO,AIR AZORES,SATA Azores Airlines,PRT
+SAS,SCANDINAVIAN,SAS Scandinavian Airlines,SWE
+SIA,SINGAPORE,Singapore Airlines,SGP
+SWN,AIR SWEDEN,West Atlantic Sweden AB,SWE
+SWR,SWISS,Swiss International Air Lines,CHE
+SWT,POSTMAN,Swift Air,ESP
+TAM,TAM,TAM Linhas Aereas,BRA
+TAP,AIR PORTUGAL,TAP Air Portugal,PRT
+TAY,QUALITY,ASL Airlines Belgium,BEL
+THY,TURKISH,Turkish Airlines,TUR
+TRA,TRANSAVIA,Transavia,NLD
+TSC,AIR TRANSAT,Air Transat,CAN
+TVF,FRENCH SUN,Transavia France,FRA
+TYW,TYROL AMBULANCE,,GA
+UAE,EMIRATES,Emirates Airlines,ARE
+UAL,UNITED,United Airlines,USA
+UPS,U P S,United Parcel Service,USA
+VJT,VISTA JET,Vista Jet Malta,MLT
+VLG,VUELING,Vueling,ESP
+VOE,VOLOTEA,VOLOTEA,ESP
+VVV,VALAIR JET,,GA
+WJA,WEST JET,WestJet,CAN
+WMT,WIZZ AIR MALTA,Wizz Air Malta,MLT
+WZZ,WIZZ AIR,Wizz Air Hungary Ltd.,HUN
+XRO,CRAMER,,GA

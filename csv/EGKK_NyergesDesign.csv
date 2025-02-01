@@ -1,0 +1,52 @@
+Airline,Callsign,Name,Country Code
+AEA,EUROPA,Air Europa,ESP
+AIC,AIR INDIA,Air India,IND
+AUR,AYLINE,Aurigny Air Services,GBR
+AWC,ZAP,Titan Airways,GBR
+BAW,SPEED BIRD,British Airways,GBR
+BRO,BROADSWORD,2 Excel Aviation,GBR
+BTI,AIR BALTIC,Air Baltic,LVA
+CAI,CORENDON,Corendon Airlines,TUR
+CCA,AIR CHINA,Air China,CHN
+CES,CHINA EASTERN,China Eastern Airlines,CHN
+CLF,CLIFTON,,GA
+CLH,LUFTHANSA,Lufthansa CityLine,DEU
+DAL,DELTA,Delta Air Lines,USA
+DLH,LUFTHANSA,Lufthansa German Airlines,DEU
+EFW,GRIFFIN,British Airways Euroflyer,GBR
+EJU,ALPINE,Easy Jet Europe,AUT
+ENT,ENTER AIR,Enter Air,POL
+ETH,ETHIOPIAN,Ethiopian Airlines,ETH
+EZE,EASTFLIGHT,Eastern Airways,GBR
+EZS,TOP SWISS,EasyJet Switzerland,CHE
+EZY,EASY,EasyJet Airline,GBR
+HMZ,AIR TURK,,GA
+IBS,IBERIAEXPRES,Iberia Express,ESP
+ICE,ICE AIR,Icelandair,ISL
+JBU,JET BLUE,JetBlue Airways,USA
+KMM,SKY KNIGHT,KM Malta Airlines,MLT
+LBT,NOUVELAIR,Nouvelair,TUN
+MAC,AIR ARABIA MAROC,Air Arabia Maroc,MAR
+MAU,AIRMAURITIUS,Air Mauritius,MUS
+NOZ,NORDIC,Norwegian Air Shuttle AOC AS,NOR
+NSZ,RED NOSE,Norwegian Air Sweden AOC,SWE
+OAW,HELVETIC,Helvetic Airways,CHE
+QTR,QATARI,Qatar Airways,QAT
+RAM,ROYAL AIR MAROC,Royal Air Maroc,MAR
+RYR,RYAN AIR,Ryanair,IRL
+SEH,AIR CRETE,Sky Express,GRC
+SHT,SHUTTLE,British Airways Shuttle,UKR
+SIA,SINGAPORE,Singapore Airlines,SGP
+SVA,SAUDIA,Saudi Arabian Airlines,SAU
+SXS,SUN EXPRESS,SunExpress,TUR
+TAP,AIR PORTUGAL,TAP Air Portugal,PRT
+TAR,TUNAIR,Tunisair,TUN
+THY,TURKISH,Turkish Airlines,TUR
+TOM,TOM JET,Tui Airways,GBR
+TSC,AIR TRANSAT,Air Transat,CAN
+UAE,EMIRATES,Emirates Airlines,ARE
+UBT,LONGBOAT,Norse Atlantic UK,GBR
+VLG,VUELING,Vueling,ESP
+WMT,WIZZ AIR MALTA,Wizz Air Malta,MLT
+WUK,WIZZ GO,Wizz Air UK,GBR
+WZZ,WIZZ AIR,Wizz Air Hungary,HUN

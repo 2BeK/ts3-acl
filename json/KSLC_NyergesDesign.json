@@ -1,0 +1,222 @@
+{
+    "Airline": "AAL",
+    "Callsign": "AMERICAN",
+    "Name": "American Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "ACA",
+    "Callsign": "AIR CANADA",
+    "Name": "Air Canada",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "AIP",
+    "Callsign": "ALPINE AIR",
+    "Name": "Alpine Aviation",
+    "Country Code": "USA"
+}
+{
+    "Airline": "AMF",
+    "Callsign": "AMFLIGHT",
+    "Name": "Ameriflight",
+    "Country Code": "USA"
+}
+{
+    "Airline": "AMX",
+    "Callsign": "AERO MEXICO",
+    "Name": "AeroMexico",
+    "Country Code": "MEX"
+}
+{
+    "Airline": "ASA",
+    "Callsign": "ALASKA",
+    "Name": "Alaska Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "CBC",
+    "Callsign": "SKYSHARE",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "CCK",
+    "Callsign": "CARLISLE AIR",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "CFS",
+    "Callsign": "EMPIRE AIR",
+    "Name": "Empire Air",
+    "Country Code": "USA"
+}
+{
+    "Airline": "CPT",
+    "Callsign": "AIR SPUR",
+    "Name": "Corporate Air Cargo",
+    "Country Code": "USA"
+}
+{
+    "Airline": "CSB",
+    "Callsign": "CARGO SOUTH",
+    "Name": "21 Air LLC",
+    "Country Code": "USA"
+}
+{
+    "Airline": "CTA",
+    "Callsign": "CHAR TRAN",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "CWG",
+    "Callsign": "CLEAR WING",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "CYO",
+    "Callsign": "COYOTE",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "DAL",
+    "Callsign": "DELTA",
+    "Name": "Delta Air Lines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "EJA",
+    "Callsign": "EXECJET",
+    "Name": "NetJets",
+    "Country Code": "USA"
+}
+{
+    "Airline": "EJM",
+    "Callsign": "JET SPEED",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "FDX",
+    "Callsign": "FEDEX",
+    "Name": "FEDERAL EXPRESS",
+    "Country Code": "USA"
+}
+{
+    "Airline": "FFT",
+    "Callsign": "FRONTIER FLIGHT",
+    "Name": "Frontier Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "HAL",
+    "Callsign": "HAWAIIAN",
+    "Name": "Hawaiian Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "JBU",
+    "Callsign": "JET BLUE",
+    "Name": "JetBlue Airways",
+    "Country Code": "USA"
+}
+{
+    "Airline": "KLM",
+    "Callsign": "KLM",
+    "Name": "KLM Royal Dutch Airlines",
+    "Country Code": "NLD"
+}
+{
+    "Airline": "KPO",
+    "Callsign": "KRYPTO",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "LBQ",
+    "Callsign": "LAB QUEST",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "LXJ",
+    "Callsign": "FLEXJET",
+    "Name": "Flexjet",
+    "Country Code": "USA"
+}
+{
+    "Airline": "NGF",
+    "Callsign": "ANGEL FLIGHT",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "NKS",
+    "Callsign": "SPIRIT WINGS",
+    "Name": "Spirit Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "PXT",
+    "Callsign": "PACK COAST",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "SJE",
+    "Callsign": "SUN JOURNEY",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "SKW",
+    "Callsign": "SKY WEST",
+    "Name": "SkyWest Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SWA",
+    "Callsign": "SOUTHWEST",
+    "Name": "Southwest Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "TIV",
+    "Callsign": "THRIVE",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "TWY",
+    "Callsign": "TWILIGHT",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "UAL",
+    "Callsign": "UNITED",
+    "Name": "United Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "UPS",
+    "Callsign": "U P S",
+    "Name": "United Parcel Service",
+    "Country Code": "USA"
+}
+{
+    "Airline": "VJA",
+    "Callsign": "VISTA AM",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "VNT",
+    "Callsign": "VENTURA",
+    "Name": "",
+    "Country Code": "GA"
+}

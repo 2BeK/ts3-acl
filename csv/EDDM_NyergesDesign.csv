@@ -1,0 +1,90 @@
+Airline,Callsign,Name,Country Code
+AAL,AMERICAN,American Airlines,USA
+ABR,CONTRACT,ASL Airlines Ireland,IRL
+ACA,AIR CANADA,Air Canada,CAN
+AEA,EUROPA,Air Europa,ESP
+AEE,AEGEAN,Aegean Airlines,GRC
+AFR,AIR FRANCE,Air France,FRA
+ANA,ALL NIPPON,All Nippon Airways,JPN
+ANE,NOSTRU AIR,Air Nostrum,ESP
+ATL,AIR BREMEN,,GA
+AUA,AUSTRIAN,Austrian Airlines,AUT
+BAW,SPEED BIRD,British Airways,GBR
+BCS,POSTMAN,European Air Transport N.V/S.A,BEL
+BEL,BEE LINE,Brussels Airlines,BEL
+BNI,BARTOLINI,,GA
+BTI,AIR BALTIC,Air Baltic,LVA
+CCA,AIR CHINA,Air China,CHN
+CFG,CONDOR,Condor Flugdienst,DEU
+CTN,CROATIA,Croatia Airlines,HRV
+DAL,DELTA,Delta Air Lines,USA
+DLA,DOLOMOTI,Air Dolomiti,ITA
+DLH,LUFTHANSA,Lufthansa German Airlines,DEU
+EGT,BULGARIAN JET,,GA
+EIN,SHAMROCK,Aer Lingus,IRL
+EJU,ALPINE,easyJet Europe,AUT
+ELY,EL AL,El Al Israel Airlines,ISR
+ETD,ETIHAD,Etihad Airways,ARE
+EWG,EUROWINGS,Eurowings GmbH,DEU
+EZY,EASY,easyJet Airline,GBR
+FIA,FIA AIRLINES,FLYONE Moldova,MDA
+FIN,FIN AIR,Finnair,FIN
+GFA,GULF AIR,Gulf Air,BHR
+GJE,GLOBAL JETS,,GA
+GWI,GERMAN WINGS,Germanwings,DEU
+HLR,HELI BULGARIA,,GA
+HRN,HERON AIR,Heron Aviation,DEU
+HYP,HYPERION,,GA
+IBE,IBERIA,Iberia Airlines,ESP
+ICE,ICE AIR,Icelandair,ISL
+IJM,JET MANAGEMENT,,GA
+ITY,ITARROW,ITA Airways,ITA
+JAF,BEAUTY,TUI fly Belgium,BEL
+JEI,JET EXECUTIVE,,GA
+KLM,KLM,KLM Royal Dutch Airlines,NLD
+KMM,SKY KNIGHT,KM Malta Airlines,MLT
+LGL,LUXAIR,Luxair,LUX
+LHX,CITY AIR,Lufthansa City Airlines,DEU
+LIL,LILIES,Fly Lili,ROU
+LOT,LOT,LOT Polish Airlines,POL
+LXJ,FLEXJET,Flexjet,USA
+MBU,MARABU,Marabu,EST
+MHV,SNOWCAP,,GA
+MSC,AIR CAIRO,Air Cairo,EGY
+MSR,EGYPT AIR,Egyptair,EGY
+MYJ,MY JET,,GA
+NJE,FRACTION,Net Jets Europe,PRT
+NOZ,NORDIC,Norwegian Air Shuttle AOC AS,NOR
+OCN,OCEAN,Discover Airlines,DEU
+OMA,OMAN AIR,Oman Aviation,OMN
+PAV,BRILLIANT,,GA
+PGT,SUNTURK,Pegasus Airlines,TUR
+PNC,PRINCE AVIATION,,GA
+PTN,PLATOON,,GA
+PWF,PRIVATE WINGS,,GA
+QTR,QATARI,Qatar Airways,QAT
+ROT,TAROM,Romanian Air Transport,ROU
+SEH,AIR CRETE,Sky Express,GRC
+SIA,SINGAPORE,Singapore Airlines,SGP
+SMR,SOMON AIR,Somon Air,TJK
+SRR,WHITE STAR,Maersk Air Cargo,DNK
+SUA,AIR SILESIA,,GA
+SVA,SAUDIA,Saudi Arabian Airlines,SAU
+SWR,SWISS,Swiss International Air Lines,CHE
+SWT,POSTMAN,Swift Air,ESP
+SXS,SUN EXPRESS,SunExpress,TUR
+TAP,AIR PORTUGAL,TAP Air Portugal,PRT
+TAR,TUNAIR,Tunisair,TUN
+TAY,QUALITY,ASL Airlines Belgium,BEL
+TEU,TAG MALTA,,GA
+THA,THAI,Thai Airways International,THA
+THY,TURKISH,Turkish Airlines,TUR
+TIH,TIRIAC AIR,,GA
+TKJ,ANATOLIA,Ajet,TUR
+TUI,TUI JET,TUI fly Deutschland,DEU
+TVS,SKYTRAVEL,,GA
+UAE,EMIRATES,Emirates Airlines,ARE
+UAL,UNITED,United Airlines,USA
+UVL,UNIVERSAL AIR,Universal Air Charter and Management,MLT
+VLG,VUELING,Vueling,ESP
+WIF,WIDEROE,Wideroes Flyveselskap,NOR

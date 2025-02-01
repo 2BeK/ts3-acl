@@ -15,10 +15,10 @@ There are three flavours available - [CSV](csv), [JSON](json) (single files for 
 
 Current state ```v1.0.4```:
 
-| Software                        | Version                    | Comment                                                                            |
-| ------------------------------- | -------------------------- | ---------------------------------------------------------------------------------- |
-| Tower! Simulator 3 - Basic game | __Tower! Places 2 Update__ | incl. EDDF, EDDS, KLAS, KLAX, KLGA, KRDU, TIST, TXKF                               |
-| Nyerges Design - World Traffic  | __v8.0__                   | incl. EDDF, EDDS, EGLL, KAUS, KBNA, KLAS, KLAX, KLGA, KRDU, LSZH, OMDB, TIST, TXKF |
+| Software                        | Version                    | Comment                                                                                                                                                                                                                                        |
+| ------------------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tower! Simulator 3 - Basic game | __Tower! Places 5 HOTFIX__ | incl. EDDF, EDDM, EDDS, KBUR, KLAS, KLAX, KLGA, KRDU, TIST, TXKF, VIDP, VRMM                                                                                                                                                                   |
+| Nyerges Design - World Bundle   | __v35.0__                  | incl. EDDF, EDDM, EDDS, EGKK, EGLL, EHAM, EKCH, KATL, KAUS, KBNA, KBOS, KBUR, KCVG, KDAL, KDTW, KFLL, KIAH, KLAS, KLAX, KLGA, KMCO, KONT, KPIT, KRDU, KSFO, KSLC, KSTL, KTUS, LEBL, LPPT, LSZH, MMPR, OMDB, RJTT, TIST, TXKF, VIDP, VRMM, VTBS |
 
 ### Need more?
 If you use a __custom schedule__ or any other __DLC airports__ you will need to run the scripts by yourself to create your very own lookup tables.

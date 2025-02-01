@@ -1,0 +1,114 @@
+{
+    "Airline": "AAL",
+    "Callsign": "AMERICAN",
+    "Name": "American Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "AMF",
+    "Callsign": "AMFLIGHT",
+    "Name": "Ameriflight",
+    "Country Code": "USA"
+}
+{
+    "Airline": "ASA",
+    "Callsign": "ALASKA",
+    "Name": "Alaska Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "DPJ",
+    "Callsign": "JET CARD",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "EJA",
+    "Callsign": "EXECJET",
+    "Name": "NetJets",
+    "Country Code": "USA"
+}
+{
+    "Airline": "FDX",
+    "Callsign": "FEDEX",
+    "Name": "FEDERAL EXPRESS",
+    "Country Code": "USA"
+}
+{
+    "Airline": "FFL",
+    "Callsign": "FORE FLIGHT",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "GAJ",
+    "Callsign": "GAMA JET",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "JBU",
+    "Callsign": "JET BLUE",
+    "Name": "JetBlue Airways",
+    "Country Code": "USA"
+}
+{
+    "Airline": "JSX",
+    "Callsign": "BIG STRIPE",
+    "Name": "JSX (JetSuiteX)",
+    "Country Code": "USA"
+}
+{
+    "Airline": "LXJ",
+    "Callsign": "FLEXJET",
+    "Name": "Flexjet",
+    "Country Code": "USA"
+}
+{
+    "Airline": "NFX",
+    "Callsign": "SUNSET",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "NKS",
+    "Callsign": "SPIRIT WINGS",
+    "Name": "Spirit Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SKW",
+    "Callsign": "SKY WEST",
+    "Name": "SkyWest Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SWA",
+    "Callsign": "SOUTHWEST",
+    "Name": "Southwest Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "TWY",
+    "Callsign": "TWILIGHT",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "UAL",
+    "Callsign": "UNITED",
+    "Name": "United Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "UPS",
+    "Callsign": "U P S",
+    "Name": "United Parcel Service",
+    "Country Code": "USA"
+}
+{
+    "Airline": "VXP",
+    "Callsign": "AVELO",
+    "Name": "Avelo Airlines",
+    "Country Code": "USA"
+}

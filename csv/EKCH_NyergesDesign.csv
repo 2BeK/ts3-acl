@@ -1,0 +1,72 @@
+Airline,Callsign,Name,Country Code
+ABR,CONTRACT,ASL Airlines Ireland,IRL
+ACA,AIR CANADA,Air Canada,CAN
+ADZ,POSTMAN,Compass Air Cargo,BGR
+AEE,AEGEAN,Aegean Airlines,GRC
+AFR,AIR FRANCE,Air France,FRA
+AIC,AIR INDIA,Air India,IND
+ASL,AIR SERBIA,Air Serbia,SRB
+AUA,AUSTRIAN,Austrian Airlines,AUT
+BAW,SPEED BIRD,British Airways,GBR
+BCS,POSTMAN,European Air Transport N.V/S.A,BEL
+BCY,SCANDINAVIAN,City Jet,IRL
+BEL,BEE LINE,Brussels Airlines,BEL
+BTI,AIR BALTIC,Air Baltic,LVA
+CAT,AIRCAT,Copenhagen Airtaxi,DNK
+CLF,CLIFTON,,GA
+CLH,LUFTHANSA,Lufthansa CityLine,DEU
+DHA,POSTMAN,DHL Air (Austria),AUT
+DLH,LUFTHANSA,Lufthansa German Airlines,DEU
+DTR,DANISH,DAT Danish Air Transport,DNK
+EJU,ALPINE,Easy Jet Europe,AUT
+EST,SCANDINAVIAN,SAS Xfly,EST
+ETD,ETIHAD,Etihad Airways,ARE
+ETH,ETHIOPIAN,Ethiopian Airlines,ETH
+EWG,EURO WINGS,Eurowings,DEU
+EZS,TOP SWISS,EasyJet Switzerland,CHE
+EZY,EASY,EasyJet Airline,GBR
+FIN,FIN AIR,Finnair,FIN
+FLI,FAROELINE,Atlantic Airways,FRO
+FPO,FRENCH POST,ASL Airlines France,FRA
+FPY,PLAYER,PLAY,ISL
+GRL,GREENLAND,Air Greenland,DNK
+IBS,IBERIAEXPRES,Iberia Express,ESP
+ICE,ICE AIR,Icelandair,ISL
+JTD,JET TIME,Jettime,DNK
+KLC,CITY,KLM Cityhopper,NLD
+KLM,KLM,KLM Royal Dutch Airlines,NLD
+LDA,RYAN AIR,Lauda Air,AUT
+LGL,LUXAIR,Luxair,LUX
+LOT,LOT,LOT Polish Airlines,POL
+MEA,CEDAR JET,Middle East Airlines,LBN
+MHV,SNOWCAP,,GA
+MMD,MERMAID,Alsie Express,DNK
+MSR,EGYPT AIR,Egyptair,EGY
+NOZ,NORDIC,Norwegian Air Shuttle AOC AS,NOR
+NSZ,RED NOSE,Norwegian Air Sweden AOC,SWE
+PGT,SUNTURK,Pegasus Airlines,TUR
+PNX,SPINNER,,GA
+PVA,PRIVATE AIR,,GA
+QTR,QATARI,Qatar Airways,QAT
+RYR,RYAN AIR,Ryanair,IRL
+RYS,MAGIC SUN,BUZZ,POL
+SAS,SCANDINAVIAN,SAS Scandinavian Airlines,SWE
+SIA,SINGAPORE,Singapore Airlines,SGP
+SRN,SPRINTAIR,SprintAir,POL
+SVS,SCANDINAVIAN,SAS Link,SWE
+SWR,SWISS,Swiss International Air Lines,CHE
+SWT,POSTMAN,Swift Air,ESP
+SZS,SCANDINAVIAN,SAS Connect,IRL
+TAP,AIR PORTUGAL,TAP Air Portugal,PRT
+TDR,TRADE AIR,Trade Air,CRO
+THA,THAI,Thai Airways International,THA
+THY,TURKISH,Turkish Airlines,TUR
+TRA,TRANSAVIA,Transavia,NLD
+TVF,FRENCH SUN,Transavia France,FRA
+UAE,EMIRATES,Emirates Airlines,ARE
+VKG,VIKING,Sunclass Airlines,DNK
+VLG,VUELING,Vueling,ESP
+VOE,VOLOTEA,VOLOTEA,ESP
+WIF,WIDEROE,Wideroes Flyveselskap,NOR
+WMT,WIZZ AIR MALTA,Wizz Air Malta,MLT
+WZZ,WIZZ AIR,Wizz Air Hungary Ltd.,HUN

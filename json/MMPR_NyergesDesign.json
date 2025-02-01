@@ -1,0 +1,168 @@
+{
+    "Airline": "AAL",
+    "Callsign": "AMERICAN",
+    "Name": "American Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "ACA",
+    "Callsign": "AIR CANADA",
+    "Name": "Air Canada",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "ACW",
+    "Callsign": "ACRO JETS",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "AMX",
+    "Callsign": "AEROMEXICO",
+    "Name": "AeroMexico",
+    "Country Code": "MEX"
+}
+{
+    "Airline": "ANX",
+    "Callsign": "SECRETARIA DEARINA",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "ASA",
+    "Callsign": "ALASKA",
+    "Name": "Alaska Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "ASP",
+    "Callsign": "AIR SPRINT",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "DAL",
+    "Callsign": "DELTA",
+    "Name": "Delta Air Lines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "FFT",
+    "Callsign": "FRONTIER FLIGHT",
+    "Name": "Frontier Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "FLE",
+    "Callsign": "FLAIR",
+    "Name": "Flair Airlines",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "JBU",
+    "Callsign": "JET BLUE",
+    "Name": "JetBlue Airways",
+    "Country Code": "USA"
+}
+{
+    "Airline": "LCT",
+    "Callsign": "TAR",
+    "Name": "TAR Aerolineas",
+    "Country Code": "MEX"
+}
+{
+    "Airline": "LET",
+    "Callsign": "MEXALE",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "LKF",
+    "Callsign": "LAKE FRONT",
+    "Name": "",
+    "Country Code": "GA"
+}
+{
+    "Airline": "LXJ",
+    "Callsign": "FLEXJET",
+    "Name": "Flexjet",
+    "Country Code": "USA"
+}
+{
+    "Airline": "MXA",
+    "Callsign": "MEXICANA",
+    "Name": "Mexicana",
+    "Country Code": "MEX"
+}
+{
+    "Airline": "SCX",
+    "Callsign": "SUN COUNTRY",
+    "Name": "Sun Country Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SKW",
+    "Callsign": "SKY WEST",
+    "Name": "SkyWest Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SLI",
+    "Callsign": "COSTERA",
+    "Name": "Aeromexico Connect",
+    "Country Code": "MEX"
+}
+{
+    "Airline": "SWA",
+    "Callsign": "SOUTHWEST",
+    "Name": "Southwest Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "SWG",
+    "Callsign": "SUNWING",
+    "Name": "Sunwing Airlines",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "TOM",
+    "Callsign": "TOM JET",
+    "Name": "Tui Airways",
+    "Country Code": "GBR"
+}
+{
+    "Airline": "TSC",
+    "Callsign": "AIR TRANSAT",
+    "Name": "Air Transat",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "UAL",
+    "Callsign": "UNITED",
+    "Name": "United Airlines",
+    "Country Code": "USA"
+}
+{
+    "Airline": "VIV",
+    "Callsign": "VIAABVA",
+    "Name": "VivaAerobus",
+    "Country Code": "MEX"
+}
+{
+    "Airline": "VOI",
+    "Callsign": "VOLARIS",
+    "Name": "Volaris",
+    "Country Code": "MEX"
+}
+{
+    "Airline": "WJA",
+    "Callsign": "WEST JET",
+    "Name": "WestJet",
+    "Country Code": "CAN"
+}
+{
+    "Airline": "WWI",
+    "Callsign": "WORLD WIDE",
+    "Name": "",
+    "Country Code": "GA"
+}
