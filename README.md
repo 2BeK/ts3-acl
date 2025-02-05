@@ -94,6 +94,9 @@ That's it! Have fun :)
 
 ## Version history
 
+* v1.0.5
+  - Updated to Tower! Places 5 HOTFIX (incl. all airports since Tower! Places 2 Update)
+  - Updated Nyerges World Bundle to v35 (incl. all airports since v8.0)
 * v1.0.4
   - Updated to Tower! Places 2 Update (incl. EDDF, EDDS)
   - Updated WT/WC pack to v8.0 (incl. EDDF, EDDS, EGLL, KAUS, KBNA, LSZH)
